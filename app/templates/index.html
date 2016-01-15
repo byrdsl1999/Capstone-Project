@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html class="full" lang="en">
+<!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
+
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Species Predictor</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../static/css/sb-admin-2.css" rel="stylesheet">
+
+    <!-- Background image CSS -->
+    <link href="../static/css/full.css" rel="stylesheet">
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style>
+    body {
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    }
+    </style>
+</head>
+<body>
+</head>
+
+<body>
+    <!-- Page Content -->
+    <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h1>British Isles Flowering Plant Resource</h1>
+              <p class="lead">Invasive species recommendations</p>
+              <p>Enter a site ID (e.g. SU56, NG25), and press 'Submit Site'. Predictions of the most likely invasive species will then be returned.</p>
+              <ul class="list-unstyled">
+                  <li></li>
+              </ul>
+              <!-- Search bar -->
+              <div class="input-group">
+                <form method="post" action="/invasive">
+                <input type="text"  class="form-control" name="user_input2" value="Site">
+                  <!-- <span class="input-group-btn"> -->
+                  <br><br>
+                  <input type=submit value="Submit Site">
+                  <!-- </span> -->
+                </input>
+                </form>
+              </div>
+              <p class="lead">Species remediation sites</p>
+              <p>Enter a flowering plant species(latin name, e.g. <i>Alisma gramineum</i> or common name, e.g. Starry Cotoneaster), and press 'Submit Taxon'. The best sites for relocation will then be returned.</p>
+              <ul class="list-unstyled">
+                  <li></li>
+              </ul>
+              <!-- Search bar -->
+              <div class="input-group center">
+                <form method="post" action="/endangered">
+                <input type="text" class="form-control" name="user_input" value="Species">
+                  <!-- <span class="input-group-btn"> -->
+                  <br><br>
+                  <input type=submit value="Submit Taxon">
+                  <!-- </span> -->
+                </input>
+                </form>
+              </div>
+
+          </div>
+      </div>
+    </div>
+
+</body>
+
+</html>

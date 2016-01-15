@@ -1,0 +1,1522 @@
+,observation_count,common_name,scientific_name,species_key,rank,record_count
+0,1,,Abelia,NBNORG0000052930,Genus,2
+1,1,,Abutilon,NBNORG0000052939,Genus,304
+2,283,Velvetleaf,Abutilon theophrasti,NBNORG0000052941,Species,300
+3,16,,Acacia,NBNORG0000052942,Genus,87
+4,3,Hickory Wattle,Acacia falciformis,NBNORG0000025007,Species,3
+5,10,Australian Blackwood,Acacia melanoxylon,NBNORG0000052943,Species,11
+6,84,,Acaena,NBNORG0000052944,Genus,824
+7,73,Bronze Pirri-pirri-bur,Acaena anserinifolia,NBNORG0000052945,Species,74
+8,8,,Acaena anserinifolia x inermis,NBNORG0000013478,Species hybrid,8
+9,7,Glaucous Pirri-pirri-bur,Acaena caesiiglauca,NBNORG0000013229,Species,7
+10,69,Spineless Acaena,Acaena inermis,NBNORG0000052946,Species,69
+11,6,,Acaena magellanica,NBNORG0000052947,Species,6
+12,1,,Acaena microphylla,NBNORG0000052948,Species,1
+13,413,Pirri-pirri-bur,Acaena novae-zelandiae,NBNORG0000022102,Species,425
+14,146,Two-spined Acaena,Acaena ovalifolia,NBNORG0000052949,Species,148
+15,1,Spiny-bur,Acanthospermum australe,NBNORG0000045865,Species,1
+16,1,,Acanthus,NBNORG0000052955,Genus,756
+17,594,Bear's-breech,Acanthus mollis,NBNORG0000013396,Species,658
+18,74,Spiny Bear's-breech,Acanthus spinosus,NBNORG0000013475,Species,87
+19,1254,Maple,Acer,NBNORG0000052956,Genus,268586
+20,77944,Field Maple,Acer campestre,NBNORG0000007757,Species,90802
+21,178,Cappadocian Maple,Acer cappadocicum,NBNORG0000013325,Species,321
+22,1,,Acer cissifolium,NBNORG0000047641,Species,1
+23,24,Snakebark Maple,Acer davidii,NBNORG0000025008,Species,44
+24,23,Paperbark Maple,Acer griseum,NBNORG0000025009,Species,40
+25,1,Heldrich's Maple,Acer heldreichii,NBNORG0000025010,Species,1
+26,24,Downy Japanese-maple,Acer japonicum,NBNORG0000025011,Species,28
+27,13,Oregon Maple,Acer macrophyllum,NBNORG0000025012,Species,19
+28,4,,Acer mono,NBNORG0000008772,Species,13
+29,4,Montpellier Maple,Acer monspessulanum,NBNORG0000025013,Species,9
+30,224,Ashleaf Maple,Acer negundo,NBNORG0000013375,Species,319
+31,3,Italian Maple,Acer opalus,NBNORG0000103553,Species,3
+32,113,Smooth Japanese-maple,Acer palmatum,NBNORG0000025014,Species,200
+33,13957,Norway Maple,Acer platanoides,NBNORG0000007756,Species,19423
+34,2,,Acer platanoides 'Drummondii',NBNORG0000025084,Species hybrid,6
+35,4,,Acer platanoides 'Schwedleri',NBNORG0000090701,Cultivar,4
+36,133735,Sycamore,Acer pseudoplatanus,NBNORG0000007755,Species,154209
+37,1,Brilliant Sycamore,Acer pseudoplatanus 'Brilliantissimum',NBNORG0000025060,Species hybrid,1
+38,1,,Acer pseudoplatanus 'Leopoldii',NBNORG0000028224,Species hybrid,1
+39,37,,Acer pseudoplatanus forma purpureum,NBNORG0000100081,Form,65
+40,3,Variegated Sycamore,Acer pseudoplatanus forma variegatum,NBNORG0000100082,Form,4
+41,23,Red Maple,Acer rubrum,NBNORG0000025015,Species,72
+42,6,Grey-budded Snake-bark-maple,Acer rufinerve,NBNORG0000025016,Species,11
+43,353,Silver Maple,Acer saccharinum,NBNORG0000008732,Species,995
+44,1,,Acer saccharinum Laciniatum group,NBNORG0000025113,Species group,1
+45,38,Sugar Maple,Acer saccharum,NBNORG0000025017,Species,62
+46,1,,Acer sempervirens,NBNORG0000091422,Species,1
+47,7,Tartar Maple,Acer tataricum,NBNORG0000013262,Species,7
+48,1,,Acer trautvetteri,NBNORG0000047575,Species,1
+49,2,,Aceraceae,NBNORG0000027140,Family,3
+50,1113,Man Orchid,Aceras anthropophorum,NBNORG0000052958,Species,3205
+51,79,,Achillea,NBNORG0000052959,Genus,173444
+52,3,Sweet Yarrow,Achillea ageratum,NBNORG0000045867,Species,3
+53,1,,Achillea alpina,NBNORG0000045868,Species,1
+54,3,Serrated Yarrow,Achillea decolorans,NBNORG0000052961,Species,3
+55,26,Tall Yarrow,Achillea distans,NBNORG0000008571,Species,26
+56,46,Fern-leaf Yarrow,Achillea filipendulina,NBNORG0000023501,Species,75
+57,1,,Achillea grandifolia,NBNORG0000013398,Species,3
+58,7,Southern Yarrow,Achillea ligustica,NBNORG0000013230,Species,7
+59,1,,Achillea micrantha,NBNORG0000045872,Species,1
+60,125663,Yarrow,Achillea millefolium,NBNORG0000008568,Species,141837
+61,42,Noble Yarrow,Achillea nobilis,NBNORG0000008572,Species,65
+62,29884,Sneezewort,Achillea ptarmica,NBNORG0000008570,Species,31308
+63,10,Yellow Milfoil,Achillea tomentosa,NBNORG0000008569,Species,10
+64,14,,Aconitum,NBNORG0000052963,Genus,4179
+65,1,,Aconitum carmichaelii,NBNORG0000045878,Species,1
+66,4,Wolf's-bane,Aconitum lycoctonum,NBNORG0000107903,Species,30
+67,26,,Aconitum lycoctonum subsp. vulparia,NBNORG0000107904,Subspecies,26
+68,2511,Monk's-hood,Aconitum napellus,NBNORG0000052964,Species,2843
+69,875,,Aconitum napellus sensu lato,NBNORG0000057227,Species aggregate,925
+70,180,,Aconitum napellus subsp. napellus,NBNORG0000052966,Subspecies,232
+71,8,,Aconitum napellus subsp. vulgare,NBNORG0000052967,Subspecies,9
+72,361,,Aconitum napellus x variegatum = A. x cammarum,NBNORG0000090337,Species hybrid,364
+73,1,,Aconitum variegatum,NBNORG0000100083,Species,1
+74,3389,Sweet-flag,Acorus calamus,NBNORG0000007252,Species,3756
+75,14,Slender Sweet-flag,Acorus gramineus,NBNORG0000013458,Species,15
+76,2,,Actaea,NBNORG0000052970,Genus,514
+77,1,,Actaea erythrocarpa,NBNORG0000052971,Species,1
+78,499,Baneberry,Actaea spicata,NBNORG0000007430,Species,511
+79,1,,Adonis,NBNORG0000052975,Genus,1094
+80,1,Summer Pheasant's-eye,Adonis aestivalis,NBNORG0000045880,Species,1
+81,862,Pheasant's-eye,Adonis annua,NBNORG0000007462,Species,1089
+82,2,Large Pheasant's-eye,Adonis flammea,NBNORG0000045881,Species,2
+83,6,,Adoxa,NBNORG0000052976,Genus,26559
+84,24582,Moschatel,Adoxa moschatellina,NBNORG0000008482,Species,26553
+85,4,,Aegilops cylindrica,NBNORG0000045884,Species,4
+86,1,,Aegilops speltoides,NBNORG0000045887,Species,2
+87,1,,Aegilops speltoides subsp. ligustica,NBNORG0000045888,Subspecies,1
+88,1,,Aegilops umbellulata,NBNORG0000045890,Species,1
+89,5,,Aegopodium,NBNORG0000052983,Genus,57861
+90,53173,Ground-elder,Aegopodium podagraria,NBNORG0000008052,Species,57856
+91,19,Tree Aeonium,Aeonium arboreum,NBNORG0000052985,Species,19
+92,2,,Aeonium canariense,NBNORG0000052986,Species,2
+93,33,Aeonium,Aeonium cuneatum,NBNORG0000052987,Species,34
+94,21,,Aesculus,NBNORG0000052988,Genus,59013
+95,1006,Red Horse-chestnut,Aesculus carnea,NBNORG0000052989,Species,1525
+96,31,Yellow Buckeye,Aesculus flava,NBNORG0000025019,Species,61
+97,45014,Horse-chestnut,Aesculus hippocastanum,NBNORG0000008652,Species,57101
+98,2,,Aesculus hippocastanum x pavia,NBNORG0000008927,Species hybrid,4
+99,27,Indian Horse-chestnut,Aesculus indica,NBNORG0000052990,Species,232
+100,1,Bottlebrush Buckeye,Aesculus parviflora,NBNORG0000025020,Species,3
+101,1,Japanese Horse-chestnut,Aesculus turbinata,NBNORG0000047518,Species,2
+102,2,Tuberous Hawk's-beard,Aetheorhiza bulbosa,NBNORG0000013465,Species,2
+103,17717,,Aethusa cynapium,NBNORG0000008059,Species,24103
+104,119,,Aethusa cynapium subsp. agrestis,NBNORG0000052994,Subspecies,130
+105,2,,Aethusa cynapium subsp. cynapioides,NBNORG0000052995,Subspecies,2
+106,3475,,Aethusa cynapium subsp. cynapium,NBNORG0000052996,Subspecies,3601
+107,1,,Agapanthus,NBNORG0000052997,Genus,84
+108,35,African Lily,Agapanthus praecox,NBNORG0000013389,Species,81
+109,40,African Lily,Agapanthus praecox subsp. orientalis,NBNORG0000052998,Subspecies,41
+110,2,,Agave,NBNORG0000052999,Genus,15
+111,8,Centuryplant,Agave americana,NBNORG0000013174,Species,11
+112,3,,Ageratum,NBNORG0000053000,Genus,43
+113,37,Flossflower,Ageratum houstonianum,NBNORG0000053001,Species,40
+114,32,Agrimony,Agrimonia,NBNORG0000053004,Genus,50544
+115,41828,Agrimony,Agrimonia eupatoria,NBNORG0000007886,Species,46996
+116,4,,Agrimonia eupatoria x procera = A. x wirtgenii,NBNORG0000090244,Species hybrid,7
+117,3267,Fragrant Agrimony,Agrimonia procera,NBNORG0000007887,Species,3487
+118,18,,Agropyron,NBNORG0000095931,Genus,23
+119,4,,Agropyron cristatum,NBNORG0000053007,Species,4
+120,2606,Corncockle,Agrostemma githago,NBNORG0000007632,Species,3571
+121,3,,Agrostemma gracilis,NBNORG0000045896,Species,3
+122,3288,Bent Grass,Agrostis,NBNORG0000053010,Genus,309164
+123,1,,Agrostis aemula,NBNORG0000045897,Species,1
+124,40,Blown-grass,Agrostis avenacea,NBNORG0000053011,Species,40
+125,20018,Velvet Bent,Agrostis canina,NBNORG0000053012,Species,21072
+126,12179,,Agrostis canina sensu lato,NBNORG0000057228,Species aggregate,12712
+127,98251,Common Bent,Agrostis capillaris,NBNORG0000007394,Species,108514
+128,2,,Agrostis capillaris x castellana = A. x fouilladeana,NBNORG0000053013,Species hybrid,4
+129,9,,Agrostis capillaris x gigantea = A. x bjoerkmanii,NBNORG0000090374,Species hybrid,9
+130,90,,Agrostis capillaris x stolonifera = A. x murbeckii,NBNORG0000090293,Species hybrid,130
+131,7,,Agrostis capillaris x vinealis = A. ? x sanionis,NBNORG0000090242,Species hybrid,10
+132,168,Highland Bent,Agrostis castellana,NBNORG0000053014,Species,235
+133,3548,Bristle Bent,Agrostis curtisii,NBNORG0000053015,Species,3970
+134,3,Spike Bent,Agrostis exarata,NBNORG0000053017,Species,3
+135,12976,Black Bent,Agrostis gigantea,NBNORG0000007395,Species,15170
+136,28,,Agrostis gigantea x stolonifera,NBNORG0000013189,Species hybrid,30
+137,2,Small Bent,Agrostis hyemalis,NBNORG0000053018,Species,3
+138,32,African Bent,Agrostis lachnantha,NBNORG0000107905,Species,33
+139,1,,Agrostis pourretii,NBNORG0000045900,Species,1
+140,107,Rough Bent,Agrostis scabra,NBNORG0000007397,Species,109
+141,122274,Creeping Bent,Agrostis stolonifera,NBNORG0000007396,Species,136392
+142,6,,Agrostis stolonifera x Polypogon viridis = X Agropogon robinsonii,NBNORG0000028225,Species hybrid,6
+143,17,,Agrostis stolonifera x vinealis,NBNORG0000013489,Species hybrid,17
+144,237,,Agrostis tenerrima,NBNORG0000045901,Species,237
+145,4804,Brown Bent,Agrostis vinealis,NBNORG0000053021,Species,5204
+146,1,,Ailanthus,NBNORG0000053022,Genus,1349
+147,351,Tree-of-heaven,Ailanthus altissima,NBNORG0000053023,Species,1347
+148,17,,Aira,NBNORG0000053024,Genus,35717
+149,12488,Silver Hair-grass,Aira caryophyllea,NBNORG0000007389,Species,12809
+150,2,,Aira cupaniana,NBNORG0000045902,Species,2
+151,5,,Aira elegantissima,NBNORG0000045903,Species,5
+152,21490,Early Hair-grass,Aira praecox,NBNORG0000007388,Species,22883
+153,1,,Aizoaceae,NBNORG0000027157,Family,1454
+154,16,,Ajuga,NBNORG0000053026,Genus,66703
+155,448,Ground-pine,Ajuga chamaepitys,NBNORG0000053027,Species,1128
+156,49,Cornish Bugle,Ajuga genevensis,NBNORG0000008428,Species,49
+157,1078,Pyramidal Bugle,Ajuga pyramidalis,NBNORG0000008429,Species,1103
+158,58851,Bugle,Ajuga reptans,NBNORG0000008427,Species,64376
+159,7,Hybrid Bugle,Ajuga reptans x pyramidalis = A. x pseudopyramidalis,NBNORG0000090169,Species hybrid,7
+160,1,Five-leaf Akebia,Akebia quinata,NBNORG0000045904,Species,5
+161,2,,Akebia trifoliata,NBNORG0000047526,Species,2
+162,1,,Alcea,NBNORG0000053030,Genus,2168
+163,1724,Hollyhock,Alcea rosea,NBNORG0000007722,Species,2158
+164,908,,Alchemilla,NBNORG0000053031,Genus,52241
+165,195,,Alchemilla acutiloba,NBNORG0000007896,Species,195
+166,4639,Alpine Lady's-mantle,Alchemilla alpina,NBNORG0000007889,Species,4671
+167,240,Silver Lady's-mantle,Alchemilla conjuncta,NBNORG0000007890,Species,244
+168,1623,Hairy Lady's-mantle,Alchemilla filicaulis,NBNORG0000023530,Species,11191
+169,1193,,Alchemilla filicaulis subsp. filicaulis,NBNORG0000053032,Subspecies,1203
+170,8196,,Alchemilla filicaulis subsp. vestita,NBNORG0000053033,Subspecies,8338
+171,13622,Smooth Lady's-mantle,Alchemilla glabra,NBNORG0000053034,Species,14049
+172,216,,Alchemilla glaucescens,NBNORG0000007892,Species,219
+173,269,,Alchemilla glomerulans,NBNORG0000007898,Species,301
+174,23,,Alchemilla micans,NBNORG0000041044,Species,23
+175,67,Alchemilla,Alchemilla minima,NBNORG0000007894,Species,69
+176,3586,Garden Lady's-mantle,Alchemilla mollis,NBNORG0000007899,Species,3896
+177,151,,Alchemilla monticola,NBNORG0000007895,Species,151
+178,54,,Alchemilla subcrenata,NBNORG0000007893,Species,54
+179,20,,Alchemilla tytthantha,NBNORG0000013335,Species,20
+180,2,,Alchemilla venosa,NBNORG0000045906,Species,2
+181,6220,Lady's-mantle,Alchemilla vulgaris agg.,NBNORG0000007891,Species aggregate,6382
+182,379,,Alchemilla wichurae,NBNORG0000053035,Species,440
+183,9188,Intermediate Lady's-mantle,Alchemilla xanthochlora,NBNORG0000007897,Species,9386
+184,63,,Alisma,NBNORG0000053036,Genus,45832
+185,65,Ribbon-leaved Water-plantain,Alisma gramineum,NBNORG0000007117,Species,74
+186,2736,Narrow-leaved Water-plantain,Alisma lanceolatum,NBNORG0000007116,Species,3164
+187,39207,Water-plantain,Alisma plantago-aquatica,NBNORG0000007115,Species,42478
+188,29,,Alisma plantago-aquatica x lanceolatum = A. x rhicnocarpum,NBNORG0000090098,Species hybrid,41
+189,2,,Alismataceae,NBNORG0000027164,Family,63167
+190,73452,Garlic Mustard,Alliaria petiolata,NBNORG0000053039,Species,82576
+191,159,Onion,Allium,NBNORG0000053040,Genus,64487
+192,1241,,Allium ampeloprasum,NBNORG0000023522,Species,1270
+193,602,Keeled Garlic,Allium carinatum,NBNORG0000007176,Species,616
+194,111,Onion,Allium cepa,NBNORG0000007212,Species,135
+195,2,,Allium cristophii,NBNORG0000047602,Species,2
+196,2,Welsh Onion,Allium fistulosum,NBNORG0000045911,Species,3
+197,7,,Allium giganteum,NBNORG0000047521,Species,7
+198,49,Yellow Garlic,Allium moly,NBNORG0000013448,Species,50
+199,113,Neapolitan Garlic,Allium neapolitanum,NBNORG0000021882,Species,130
+200,40,Broad-leaved Leek,Allium nigrum,NBNORG0000013372,Species,46
+201,1696,Field Garlic,Allium oleraceum,NBNORG0000007175,Species,1801
+202,1608,Few-flowered Garlic,Allium paradoxum,NBNORG0000053041,Species,1706
+203,5,Italian Garlic,Allium pendulinum,NBNORG0000023594,Species,11
+204,74,Leek,Allium porrum,NBNORG0000007213,Species,80
+205,629,Rosy Garlic,Allium roseum,NBNORG0000007178,Species,713
+206,7,,Allium roseum var. bulbiferum,NBNORG0000070814,Variety,7
+207,30,Garlic,Allium sativum,NBNORG0000107906,Species,34
+208,880,Chives,Allium schoenoprasum,NBNORG0000007177,Species,1039
+209,1345,Sand Leek,Allium scorodoprasum,NBNORG0000007172,Species,1419
+210,2,,Allium senescens,NBNORG0000047576,Species,2
+211,30,Round-headed Leek,Allium sphaerocephalon,NBNORG0000007173,Species,84
+212,77,Hairy Garlic,Allium subhirsutum,NBNORG0000021916,Species,116
+213,3405,Three-cornered Garlic,Allium triquetrum,NBNORG0000007179,Species,3930
+214,3,Chinese Chives,Allium tuberosum,NBNORG0000053042,Species,6
+215,8,American Garlic,Allium unifolium,NBNORG0000023509,Species,10
+216,34189,Ramsons,Allium ursinum,NBNORG0000007180,Species,36091
+217,13083,,Allium vineale,NBNORG0000007174,Species,14980
+218,839,,Alnus,NBNORG0000053045,Genus,106065
+219,1791,Italian Alder,Alnus cordata,NBNORG0000053046,Species,2377
+220,4,,Alnus cordata x incana,NBNORG0000091188,Species hybrid,4
+221,90580,Alder,Alnus glutinosa,NBNORG0000053047,Species,97940
+222,150,Hybrid Alder,Alnus glutinosa x incana = A. x hybrida,NBNORG0000090369,Species hybrid,154
+223,4019,Grey Alder,Alnus incana,NBNORG0000008142,Species,4431
+224,1,Oriental Alder,Alnus orientalis,NBNORG0000025023,Species,1
+225,46,Red Alder,Alnus rubra,NBNORG0000025024,Species,50
+226,35,Green Alder,Alnus viridis,NBNORG0000023312,Species,37
+227,1,,Alonsoa caulialata,NBNORG0000053049,Species,1
+228,2,Mask-flower,Alonsoa warscewiczii,NBNORG0000045913,Species,2
+229,98,Foxtail,Alopecurus,NBNORG0000053051,Genus,137309
+230,1361,Orange Foxtail,Alopecurus aequalis,NBNORG0000007409,Species,1509
+231,289,Alpine Foxtail,Alopecurus borealis,NBNORG0000007411,Species,326
+232,924,Bulbous Foxtail,Alopecurus bulbosus,NBNORG0000007410,Species,1093
+233,39494,Marsh Foxtail,Alopecurus geniculatus,NBNORG0000007408,Species,42451
+234,33,,Alopecurus geniculatus x aequalis = A. x haussknechtianus,NBNORG0000089920,Species hybrid,33
+235,154,,Alopecurus geniculatus x bulbosus = A. x plettkei,NBNORG0000089983,Species hybrid,176
+236,42,,Alopecurus magellanicus,NBNORG0000045914,Species,59
+237,14660,Black-grass,Alopecurus myosuroides,NBNORG0000053053,Species,17075
+238,66243,Meadow Foxtail,Alopecurus pratensis,NBNORG0000007407,Species,74298
+239,173,,Alopecurus pratensis x geniculatus = A. x brachystylus,NBNORG0000090068,Species hybrid,185
+240,1,,Alopecurus utriculatus,NBNORG0000045917,Species,1
+241,86,Peruvian Lily,Alstroemeria aurea,NBNORG0000013264,Species,89
+242,2,Joyweed,Alternanthera nodiflora,NBNORG0000045919,Species,2
+243,1,,Althaea,NBNORG0000053058,Genus,2848
+244,1,,Althaea cannabina,NBNORG0000045922,Species,1
+245,284,Rough Marsh-mallow,Althaea hirsuta,NBNORG0000007721,Species,389
+246,1366,Marsh-mallow,Althaea officinalis,NBNORG0000007720,Species,2457
+247,3,,Alyssum,NBNORG0000053059,Genus,1094
+248,671,Small Alison,Alyssum alyssoides,NBNORG0000007537,Species,681
+249,2,Mountain Alison,Alyssum montanum,NBNORG0000045926,Species,2
+250,345,Golden Alison,Alyssum saxatile,NBNORG0000007538,Species,364
+251,1,,Amaranthaceae,NBNORG0000027168,Family,226508
+252,26,,Amaranthus,NBNORG0000053060,Genus,3812
+253,308,White Pigweed,Amaranthus albus,NBNORG0000007684,Species,329
+254,112,Prostrate Pigweed,Amaranthus blitoides,NBNORG0000053063,Species,118
+255,80,Guernsey Pigweed,Amaranthus blitum,NBNORG0000007685,Species,84
+256,203,Indehiscent Amaranth,Amaranthus bouchonii,NBNORG0000023249,Species,215
+257,34,Cape Pigweed,Amaranthus capensis,NBNORG0000023273,Species,34
+258,87,Love-lies-bleeding,Amaranthus caudatus,NBNORG0000013392,Species,92
+259,2,,Amaranthus clementii,NBNORG0000045931,Species,2
+260,2,Crisp-leaved Amaranth,Amaranthus crispus,NBNORG0000053065,Species,2
+261,46,Purple Amaranth,Amaranthus cruentus,NBNORG0000023408,Species,64
+262,45,Perennial Pigweed,Amaranthus deflexus,NBNORG0000013388,Species,47
+263,22,Short-tepalled Pigweed,Amaranthus graecizans,NBNORG0000023315,Species,22
+264,590,Green Amaranth,Amaranthus hybridus,NBNORG0000007683,Species,680
+265,7,Prince's-feather,Amaranthus hypochondriacus,NBNORG0000026710,Species,7
+266,1,Desert Amaranth,Amaranthus macrocarpus,NBNORG0000045932,Species,1
+267,1,Rough-fruited Amaranth,Amaranthus muricatus,NBNORG0000045934,Species,1
+268,11,Dioecious Amaranth,Amaranthus palmeri,NBNORG0000053067,Species,11
+269,8,Powell's Amaranth,Amaranthus powellii,NBNORG0000053068,Species,11
+270,60,Mucronate Amaranth,Amaranthus quitensis,NBNORG0000013251,Species,60
+271,1650,Common Amaranth,Amaranthus retroflexus,NBNORG0000007682,Species,1857
+272,47,,Amaranthus retroflexus x hybridus = A. x ozanonii,NBNORG0000090085,Species hybrid,49
+273,3,Spiny Amaranth,Amaranthus spinosus,NBNORG0000045936,Species,3
+274,18,Indehiscent Pigweed,Amaranthus standleyanus,NBNORG0000053071,Species,18
+275,38,Thunberg's Pigweed,Amaranthus thunbergii,NBNORG0000023434,Species,38
+276,7,,Amaranthus viridis,NBNORG0000045938,Species,8
+277,1,,Amaryllis,NBNORG0000053074,Genus,22
+278,20,Jersey Lily,Amaryllis belladonna,NBNORG0000023557,Species,21
+279,1,Hooker's Bur-ragweed,Ambrosia acanthicarpa,NBNORG0000045940,Species,1
+280,706,Ragweed,Ambrosia artemisiifolia,NBNORG0000008500,Species,752
+281,5,,Ambrosia maritima,NBNORG0000045941,Species,5
+282,111,Perennial Ragweed,Ambrosia psilostachya,NBNORG0000023299,Species,111
+283,203,Giant Ragweed,Ambrosia trifida,NBNORG0000023592,Species,204
+284,17,,Amelanchier,NBNORG0000053078,Genus,913
+285,650,Juneberry,Amelanchier lamarckii,NBNORG0000053079,Species,781
+286,19,Snowy Mespilus,Amelanchier ovalis,NBNORG0000053080,Species,19
+287,410,Bullwort,Ammi majus,NBNORG0000008045,Species,453
+288,98,Toothpick-plant,Ammi visnaga,NBNORG0000008046,Species,100
+289,22,,Ammophila,NBNORG0000053087,Genus,6817
+290,6365,Marram,Ammophila arenaria,NBNORG0000007390,Species,6792
+291,1,American Marram,Ammophila breviligulata,NBNORG0000053088,Species,1
+292,4,,Amsinckia,NBNORG0000053090,Genus,2482
+293,85,Scarce Fiddleneck,Amsinckia lycopsoides,NBNORG0000053091,Species,86
+294,2329,Common Fiddleneck,Amsinckia micrantha,NBNORG0000021641,Species,2391
+295,1,Tessellate Fiddleneck,Amsinckia tessellata,NBNORG0000045949,Species,1
+296,9,,Anacamptis,NBNORG0000053093,Genus,13749
+297,12051,Pyramidal Orchid,Anacamptis pyramidalis,NBNORG0000007251,Species,13740
+298,7,,Anacamptis pyramidalis x Gymnadenia conopsea = X Gymnanacamptis anacamptis,NBNORG0000090243,Species hybrid,9
+299,2,,Anacyclus,NBNORG0000053094,Genus,8
+300,1,,Anacyclus clavatus,NBNORG0000045950,Species,1
+301,4,,Anacyclus radiatus,NBNORG0000053095,Species,4
+302,1,,Anacyclus valentinus,NBNORG0000045951,Species,1
+303,21,Pimpernel,Anagallis,NBNORG0000053096,Genus,59831
+304,26404,Scarlet Pimpernel,Anagallis arvensis,NBNORG0000008215,Species,44346
+305,571,,Anagallis arvensis arvensis azurea,NBNORG0000100086,Subspecies,573
+306,558,,Anagallis arvensis arvensis carnea,NBNORG0000100087,Subspecies,558
+307,112,,Anagallis arvensis arvensis lilacina,NBNORG0000100088,Subspecies,112
+308,143,,Anagallis arvensis arvensis pallida,NBNORG0000100089,Subspecies,143
+309,6,,Anagallis arvensis arvensis viridiflora,NBNORG0000041084,Subspecies,6
+310,10299,Scarlet Pimpernel,Anagallis arvensis subsp. arvensis,NBNORG0000013218,Subspecies,11788
+311,811,,Anagallis arvensis subsp. foemina,NBNORG0000053097,Subspecies,885
+312,1966,Chaffweed,Anagallis minima,NBNORG0000053098,Species,2318
+313,1,Garden Pimpernel,Anagallis monelli,NBNORG0000045952,Species,2
+314,12945,Bog Pimpernel,Anagallis tenella,NBNORG0000008214,Species,13143
+315,1,,Anagallis x doerfleri,NBNORG0000013387,Species hybrid,1
+316,1,,Anaphalis,NBNORG0000053099,Genus,729
+317,724,Pearly Everlasting,Anaphalis margaritacea,NBNORG0000008542,Species,728
+318,3,,Anchusa,NBNORG0000053101,Genus,11189
+319,10150,Bugloss,Anchusa arvensis,NBNORG0000053102,Species,10615
+320,1,,Anchusa arvensis subsp. orientalis,NBNORG0000045955,Subspecies,1
+321,106,Garden Anchusa,Anchusa azurea,NBNORG0000053104,Species,112
+322,18,Yellow Alkanet,Anchusa ochroleuca,NBNORG0000053105,Species,18
+323,24,Alkanet,Anchusa ochroleuca x officinalis = A. x baumgartenii,NBNORG0000090222,Species hybrid,25
+324,401,Alkanet,Anchusa officinalis,NBNORG0000008247,Species,414
+325,1,,Anchusa undulata,NBNORG0000045959,Species,1
+326,2,,Andromeda,NBNORG0000053106,Genus,2366
+327,2332,Bog-rosemary,Andromeda polifolia,NBNORG0000008181,Species,2364
+328,16,,Anemone,NBNORG0000053110,Genus,50407
+329,600,Blue Anemone,Anemone apennina,NBNORG0000007433,Species,645
+330,138,Balkan Anemone,Anemone blanda,NBNORG0000013206,Species,173
+331,5,Poppy Anemone,Anemone coronaria,NBNORG0000045964,Species,6
+332,5,,Anemone hortensis x pavonina = A. x fulgens,NBNORG0000090153,Species hybrid,5
+333,418,,Anemone hupehensis x vitifolia = A. x hybrida,NBNORG0000028226,Species hybrid,506
+334,44580,Wood Anemone,Anemone nemorosa,NBNORG0000007431,Species,48867
+335,164,Yellow Anemone,Anemone ranunculoides,NBNORG0000007432,Species,172
+336,3,Snowdrop Anemone,Anemone sylvestris,NBNORG0000045965,Species,4
+337,114,Dill,Anethum graveolens,NBNORG0000008060,Species,126
+338,213,,Angelica,NBNORG0000053112,Genus,94526
+339,557,Garden Angelica,Angelica archangelica,NBNORG0000008066,Species,769
+340,88438,Wild Angelica,Angelica sylvestris,NBNORG0000008065,Species,93517
+341,1,,Anisantha,NBNORG0000053113,Genus,2
+342,1,,Anisodontea,NBNORG0000053114,Genus,1
+343,4,Spurred Anoda,Anoda cristata,NBNORG0000053117,Species,5
+344,2,,Antennaria,NBNORG0000053121,Genus,5986
+345,5919,Mountain Everlasting,Antennaria dioica,NBNORG0000053122,Species,5984
+346,13,,Anthemis,NBNORG0000053123,Genus,11003
+347,2,Southern Chamomile,Anthemis altissima,NBNORG0000045967,Species,3
+348,2434,Corn Chamomile,Anthemis arvensis,NBNORG0000008566,Species,2749
+349,20,Austrian Chamomile,Anthemis austriaca,NBNORG0000045968,Species,35
+350,6054,Stinking Chamomile,Anthemis cotula,NBNORG0000008565,Species,7489
+351,11,,Anthemis cotula x Tripleurospermum inodorum = X Tripleurothemis maleolens,NBNORG0000090223,Species hybrid,11
+352,1,Mountain Dog-daisy,Anthemis cretica,NBNORG0000045969,Species,1
+353,120,Sicilian Chamomile,Anthemis punctata,NBNORG0000008919,Species,137
+354,12,,Anthemis punctata subsp. cupaniana,NBNORG0000053124,Subspecies,12
+355,8,Eastern Chamomile,Anthemis ruthenica,NBNORG0000045974,Species,8
+356,530,Yellow Chamomile,Anthemis tinctoria,NBNORG0000008564,Species,562
+357,1,Woolly Chamomile,Anthemis tomentosa,NBNORG0000045975,Species,1
+358,2,Southern Dog-daisy,Anthemis triumfetti,NBNORG0000045976,Species,2
+359,1,Branched St Bernard's-lily,Anthericum ramosum,NBNORG0000045977,Species,1
+360,330,,Anthophyta,NBNORG0000047661,Division,339
+361,460,,Anthoxanthum,NBNORG0000053128,Genus,119799
+362,203,Annual Vernal-grass,Anthoxanthum aristatum,NBNORG0000007414,Species,213
+363,9,,Anthoxanthum aristatum subsp. puelii,NBNORG0000053129,Subspecies,10
+364,111590,Sweet Vernal-grass,Anthoxanthum odoratum,NBNORG0000007413,Species,119103
+365,9,,Anthriscus,NBNORG0000053131,Genus,134711
+366,5618,Bur Chervil,Anthriscus caucalis,NBNORG0000053132,Species,6257
+367,156,Garden Chervil,Anthriscus cerefolium,NBNORG0000008019,Species,157
+368,113616,Cow Parsley,Anthriscus sylvestris,NBNORG0000008018,Species,128285
+369,14,,Anthyllis,NBNORG0000053133,Genus,18473
+370,15650,,Anthyllis vulneraria,NBNORG0000007805,Species,18458
+371,8,,Anthyllis vulneraria carpatica var. pseudovulneraria,NBNORG0000047473,Variety,8
+372,221,,Anthyllis vulneraria subsp. carpatica,NBNORG0000023583,Subspecies,223
+373,40,,Anthyllis vulneraria subsp. corbierei,NBNORG0000053134,Subspecies,40
+374,370,,Anthyllis vulneraria subsp. lapponica,NBNORG0000053135,Subspecies,370
+375,58,,Anthyllis vulneraria subsp. polyphylla,NBNORG0000013215,Subspecies,62
+376,864,,Anthyllis vulneraria subsp. vulneraria,NBNORG0000053136,Subspecies,990
+377,220,,Anthyllis vulneraria vulneraria langei,NBNORG0000013381,Variety,220
+378,15,,Antirrhinum,NBNORG0000053137,Genus,6882
+379,5462,Snapdragon,Antirrhinum majus,NBNORG0000008286,Species,6851
+380,1,,Apera,NBNORG0000053139,Genus,2848
+381,820,Dense Silky-bent,Apera interrupta,NBNORG0000007400,Species,828
+382,1665,Loose Silky-bent,Apera spica-venti,NBNORG0000007399,Species,2019
+383,127,,Aphanes,NBNORG0000053141,Genus,34203
+384,12638,Parsley-piert,Aphanes arvensis,NBNORG0000026717,Species,14077
+385,12397,,Aphanes arvensis agg.,NBNORG0000053142,Species aggregate,13061
+386,6565,Slender Parsley-piert,Aphanes australis,NBNORG0000041113,Species,6916
+387,118,Umbellifer,Apiaceae,NBNORG0000027196,Family,1048723
+388,24,,Apium,NBNORG0000053143,Genus,63759
+389,3423,Wild Celery,Apium graveolens,NBNORG0000008037,Species,3795
+390,24,,Apium graveolens var. dulce,NBNORG0000008038,Variety,31
+391,2,Celeriac,Apium graveolens var. rapaceum,NBNORG0000008039,Variety,2
+392,5285,Lesser Marshwort,Apium inundatum,NBNORG0000053144,Species,5772
+393,50720,Fool's-water-cress,Apium nodiflorum,NBNORG0000008040,Species,53927
+394,116,,Apium nodiflorum x inundatum = A. x moorei,NBNORG0000090091,Species hybrid,116
+395,36,,Apium nodiflorum x repens,NBNORG0000008041,Species hybrid,36
+396,36,Creeping Marshwort,Apium repens,NBNORG0000008042,Species,89
+397,2,,Apocynaceae,NBNORG0000027197,Family,21909
+398,157,Cape-pondweed,Aponogeton distachyos,NBNORG0000053146,Species,194
+399,55,Heart-leaf Iceplant,Aptenia cordifolia,NBNORG0000053148,Species,56
+400,1,,Aquifoliaceae,NBNORG0000027204,Family,127062
+401,310,Columbine,Aquilegia,NBNORG0000053149,Genus,11791
+402,12,Pyrenean Columbine,Aquilegia pyrenaica,NBNORG0000007465,Species,13
+403,10526,Columbine,Aquilegia vulgaris,NBNORG0000007464,Species,11418
+404,1,,Arabidopsis,NBNORG0000053151,Genus,25440
+405,23314,Thale Cress,Arabidopsis thaliana,NBNORG0000007576,Species,25439
+406,5,,Arabis,NBNORG0000053152,Genus,11368
+407,32,Alpine Rock-cress,Arabis alpina,NBNORG0000007557,Species,51
+408,19,Sand Rock-cress,Arabis arenosa,NBNORG0000023443,Species,19
+409,1026,Garden Arabis,Arabis caucasica,NBNORG0000053153,Species,1044
+410,29,Rosy Cress,Arabis collina,NBNORG0000013221,Species,30
+411,1,,Arabis fernandi-coburgi,NBNORG0000047604,Species,1
+412,1168,Tower Mustard,Arabis glabra,NBNORG0000007560,Species,1392
+413,6780,Hairy Rock-cress,Arabis hirsuta,NBNORG0000007558,Species,7360
+414,1073,Northern Rock-cress,Arabis petraea,NBNORG0000007555,Species,1146
+415,1,,Arabis procurrens,NBNORG0000047605,Species,1
+416,85,Bristol Rock-cress,Arabis scabra,NBNORG0000007559,Species,227
+417,93,Tower Cress,Arabis turrita,NBNORG0000007556,Species,93
+418,2,,Araceae,NBNORG0000027205,Family,185314
+419,15,Peanut,Arachis hypogaea,NBNORG0000013382,Species,22
+420,8,Chinese Angelica-tree,Aralia chinensis,NBNORG0000023372,Species,8
+421,30,Japanese Angelica-tree,Aralia elata,NBNORG0000053157,Species,33
+422,5,American-spikenard,Aralia racemosa,NBNORG0000023493,Species,5
+423,290,Strawberry-tree,Arbutus unedo,NBNORG0000008184,Species,328
+424,3,Hybrid Strawberry-tree,Arbutus unedo x andrachne = A. x andrachnoides,NBNORG0000089942,Species hybrid,14
+425,8447,,Arctium,NBNORG0000053161,Genus,105530
+426,12174,Greater Burdock,Arctium lappa,NBNORG0000008588,Species,13638
+427,75,,Arctium lappa x minus = A. x nothum,NBNORG0000028227,Species hybrid,79
+428,67511,,Arctium minus,NBNORG0000008589,Species,75759
+429,1402,,Arctium minus/nemorosum,NBNORG0000053162,Species aggregate,1456
+430,5491,,Arctium nemorosum,NBNORG0000026722,Species,5811
+431,31,Woolly Burdock,Arctium tomentosum,NBNORG0000053163,Species,39
+432,10,,"Arctium vulgare auct., non (Hill) Druce",NBNORG0000107909,Species pro parte,10
+433,1,,Arctostaphylos,NBNORG0000053164,Genus,4710
+434,853,Alpine Bearberry,Arctostaphylos alpinus,NBNORG0000053165,Species,886
+435,3793,Bearberry,Arctostaphylos uva-ursi,NBNORG0000053166,Species,3823
+436,33,Plain Treasureflower,Arctotheca calendula,NBNORG0000013431,Species,33
+437,1,White Arctotis,Arctotis stoechadifolia,NBNORG0000045982,Species,1
+438,1,,Arecaceae,NBNORG0000027216,Family,80
+439,101,Bastard Agrimony,Aremonia agrimonioides,NBNORG0000007888,Species,105
+440,612,Sandwort,Arenaria,NBNORG0000049666,Genus,33354
+441,529,Mossy Sandwort,Arenaria balearica,NBNORG0000007669,Species,542
+442,6,Fringed Sandwort,Arenaria ciliata,NBNORG0000007668,Species,7
+443,6,Mountain Sandwort [Arenaria montana],Arenaria montana,NBNORG0000007670,Species,6
+444,69,,Arenaria norvegica,NBNORG0000023496,Species,425
+445,104,,Arenaria norvegica subsp. anglica,NBNORG0000053170,Subspecies,104
+446,230,,Arenaria norvegica subsp. norvegica,NBNORG0000053171,Subspecies,230
+447,15060,Thyme-leaved Sandwort,Arenaria serpyllifolia,NBNORG0000008689,Species,29352
+448,2246,,Arenaria serpyllifolia sens.lat.,NBNORG0000007667,Species aggregate,2409
+449,5990,,Arenaria serpyllifolia subsp. leptoclados,NBNORG0000053172,Subspecies,6484
+450,6623,Thyme-leaved Sandwort,Arenaria serpyllifolia subsp. serpyllifolia,NBNORG0000053173,Subspecies,7038
+451,42,Mexican Poppy,Argemone mexicana,NBNORG0000013414,Species,45
+452,1,,Argyranthemum,NBNORG0000053175,Genus,1
+453,17,Mousetailplant,Arisarum proboscideum,NBNORG0000013254,Species,21
+454,9,Blue Corn-lily,Aristea ecklonii,NBNORG0000013495,Species,9
+455,360,Birthwort,Aristolochia clematitis,NBNORG0000008077,Species,378
+456,4,Breckland Birthwort,Aristolochia hirta,NBNORG0000053183,Species,4
+457,4,Smearwort,Aristolochia rotunda,NBNORG0000008078,Species,5
+458,201,Thrift,Armeria,NBNORG0000053184,Genus,14471
+459,4,Jersey Thrift,Armeria arenaria,NBNORG0000053185,Species,4
+460,13004,Thrift,Armeria maritima,NBNORG0000053186,Species,14256
+461,39,Tall Thrift,Armeria maritima subsp. elongata,NBNORG0000008669,Subspecies,39
+462,636,Thrift,Armeria maritima subsp. maritima,NBNORG0000053187,Subspecies,649
+463,3,Estoril Thrift,Armeria pseudoarmeria,NBNORG0000045987,Species,4
+464,21217,Horse-radish,Armoracia rusticana,NBNORG0000053189,Species,25632
+465,215,Lamb's Succory,Arnoseris minima,NBNORG0000053195,Species,260
+466,8,Red Chokeberry,Aronia arbutifolia,NBNORG0000013226,Species,9
+467,4,Black Chokeberry,Aronia melanocarpa,NBNORG0000053197,Species,4
+468,48,,Arrhenatherum,NBNORG0000053198,Genus,143626
+469,124380,False Oat-grass,Arrhenatherum elatius,NBNORG0000053200,Species,143563
+470,88,,Artemisia,NBNORG0000053201,Genus,76471
+471,49,Southernwood,Artemisia abrotanum,NBNORG0000013427,Species,50
+472,7283,Wormwood,Artemisia absinthium,NBNORG0000008584,Species,7820
+473,12,,Artemisia afra,NBNORG0000023340,Species,13
+474,26,Annual Mugwort,Artemisia annua,NBNORG0000023268,Species,29
+475,87,Slender Mugwort,Artemisia biennis,NBNORG0000008582,Species,102
+476,622,Field Wormwood,Artemisia campestris,NBNORG0000008585,Species,642
+477,12,,Artemisia campestris subsp. maritima,NBNORG0000097186,Subspecies,12
+478,34,Tarragon,Artemisia dracunculus,NBNORG0000023321,Species,37
+479,1,,Artemisia longifolia,NBNORG0000045989,Species,1
+480,6,Western Mugwort,Artemisia ludoviciana,NBNORG0000045990,Species,6
+481,1,,Artemisia macrantha,NBNORG0000045991,Species,1
+482,28,Norwegian Mugwort,Artemisia norvegica,NBNORG0000053204,Species,29
+483,1,Roman Wormwood,Artemisia pontica,NBNORG0000023587,Species,3
+484,3,,Artemisia scoparia,NBNORG0000053205,Species,3
+485,64,Hoary Mugwort,Artemisia stelleriana,NBNORG0000008583,Species,66
+486,321,Chinese Mugwort,Artemisia verlotiorum,NBNORG0000008581,Species,762
+487,56373,,Artemisia vulgaris,NBNORG0000008580,Species,66729
+488,38,,Artemisia vulgaris x verlotiorum = A. x wurzellii,NBNORG0000107911,Species hybrid,65
+489,59,Arum,Arum,NBNORG0000053208,Genus,85546
+490,724,Italian Lords-and-Ladies,Arum italicum,NBNORG0000053209,Species,3379
+491,1128,,Arum italicum subsp. italicum,NBNORG0000053211,Subspecies,1372
+492,1,,Arum italicum subsp. italicum x subsp. neglectum,NBNORG0000091189,Subspecies hybrid,1
+493,674,,Arum italicum subsp. neglectum,NBNORG0000053212,Subspecies,1117
+494,74059,Lords-and-Ladies,Arum maculatum,NBNORG0000007254,Species,82043
+495,50,Hybrid Cuckoo Pint,Arum maculatum x italicum,NBNORG0000107912,Species hybrid,59
+496,1,,Aruncus,NBNORG0000053213,Genus,191
+497,183,Buck's-beard,Aruncus dioicus,NBNORG0000053214,Species,190
+498,85,Trailing Snapdragon,Asarina procumbens,NBNORG0000053217,Species,93
+499,327,Asarabacca,Asarum europaeum,NBNORG0000008076,Species,331
+500,5,,Asparagus,NBNORG0000053219,Genus,5769
+501,3639,,Asparagus officinalis,NBNORG0000007157,Species,5058
+502,629,,Asparagus prostratus,NBNORG0000053220,Species,703
+503,145,Madwort,Asperugo procumbens,NBNORG0000008237,Species,146
+504,3,,Asperula,NBNORG0000053222,Genus,6963
+505,172,Blue Woodruff,Asperula arvensis,NBNORG0000008690,Species,173
+506,3886,,Asperula cynanchica,NBNORG0000013460,Species,6702
+507,2020,,Asperula cynanchica subsp. cynanchica,NBNORG0000008456,Subspecies,2281
+508,5,,Asperula cynanchica subsp. occidentalis,NBNORG0000023581,Subspecies,7
+509,10,Annual Woodruff,Asperula orientalis,NBNORG0000008928,Species,10
+510,72,Pink Woodruff,Asperula taurina,NBNORG0000008455,Species,73
+511,1,Yellow Asphodel,Asphodeline lutea,NBNORG0000053224,Species,1
+512,1,White Asphodel,Asphodelus albus,NBNORG0000053226,Species,1
+513,12,Hollow-stemmed Asphodel,Asphodelus fistulosus,NBNORG0000045997,Species,12
+514,1,Cast-iron-plant,Aspidistra elatior,NBNORG0000045999,Species,1
+515,1977,,Aster,NBNORG0000053233,Genus,27564
+516,1892,,Aster (alien N American taxa),NBNORG0000108092,Species group,1894
+517,461,,Aster agg.,NBNORG0000057230,Species aggregate,679
+518,29,European Michaelmas-daisy,Aster amellus,NBNORG0000013263,Species,32
+519,10,Narrow-leaved Smooth Aster,Aster concinnus,NBNORG0000013188,Species,10
+520,1,Bushy Aster,Aster dumosus,NBNORG0000023577,Species,1
+521,36,Glaucous Michaelmas-daisy,Aster laevis,NBNORG0000008554,Species,39
+522,529,Late Michaelmas-daisy,Aster laevis x novi-belgii = A. x versicolor,NBNORG0000028231,Species hybrid,622
+523,588,Narrow-leaved Michaelmas-daisy,Aster lanceolatus,NBNORG0000008555,Species,623
+524,201,Goldilocks Aster,Aster linosyris,NBNORG0000008556,Species,213
+525,162,Hairy Michaelmas-daisy,Aster novae-angliae,NBNORG0000008549,Species,180
+526,3240,Confused Michaelmas-daisy,Aster novi-belgii,NBNORG0000008551,Species,4512
+527,455,,Aster novi-belgii agg.,NBNORG0000053235,Species aggregate,457
+528,350,,Aster novi-belgii subsp. laevigatus,NBNORG0000008552,Subspecies,350
+529,19,,Aster novi-belgii subsp. novi-belgii,NBNORG0000008553,Subspecies,19
+530,1899,Common Michaelmas-daisy,Aster novi-belgii x lanceolatus = A. x salignus,NBNORG0000090101,Species hybrid,2817
+531,12,Red-stalk Aster,Aster puniceus,NBNORG0000008550,Species,12
+532,3,Nettle-leaved Michaelmas-daisy,Aster schreberi,NBNORG0000008548,Species,3
+533,6,Stonecrop Aster,Aster sedifolius,NBNORG0000013213,Species,6
+534,1,Showy Aster,Aster spectabilis,NBNORG0000046006,Species,1
+535,9894,Sea Aster,Aster tripolium,NBNORG0000008547,Species,11495
+536,348,,Aster tripolium var. discoideus,NBNORG0000100098,Variety,365
+537,93,,Aster tripolium var. tripolium,NBNORG0000041159,Variety,104
+538,190,,Asteraceae,NBNORG0000027229,Family,3289420
+539,11,,Astilbe,NBNORG0000053241,Genus,134
+540,49,False-buck's-beard,Astilbe japonica,NBNORG0000053242,Species,50
+541,58,Red False-buck's-beard,Astilbe japonica x chinensis x rosea = A. x arendsii,NBNORG0000090002,Species hybrid,59
+542,10,Tall False-buck's-beard [Astilbe rivularis],Astilbe rivularis,NBNORG0000053243,Species,10
+543,2,,Astilbe thunbergii,NBNORG0000060387,Species,2
+544,29,,Astragalus,NBNORG0000053244,Genus,5041
+545,76,Alpine Milk-vetch,Astragalus alpinus,NBNORG0000007816,Species,98
+546,3,Milk-Vetch,Astragalus boeticus,NBNORG0000007818,Species,3
+547,13,Chick-pea Milk-vetch,Astragalus cicer,NBNORG0000013442,Species,13
+548,2291,Purple Milk-vetch,Astragalus danicus,NBNORG0000007815,Species,2437
+549,2284,Wild Liquorice,Astragalus glycyphyllos,NBNORG0000007817,Species,2433
+550,4,,Astragalus hamosus,NBNORG0000046011,Species,4
+551,24,Lesser Milk-vetch,Astragalus odoratus,NBNORG0000007819,Species,24
+552,2,,Astrantia,NBNORG0000053247,Genus,417
+553,402,Astrantia,Astrantia major,NBNORG0000008013,Species,408
+554,4,,Astrantia maxima,NBNORG0000053248,Species,4
+555,541,,Atriplex,NBNORG0000053255,Genus,87365
+556,3317,Babington's Orache,Atriplex glabriuscula,NBNORG0000007703,Species,3508
+557,95,,Atriplex glabriuscula x longipes = A. x taschereaui,NBNORG0000090365,Species hybrid,99
+558,19,,Atriplex glabriuscula x praecox,NBNORG0000013487,Species hybrid,19
+559,3,,Atriplex glauca,NBNORG0000046024,Species,3
+560,118,Shrubby Orache,Atriplex halimus,NBNORG0000007706,Species,124
+561,460,Garden Orache,Atriplex hortensis,NBNORG0000007705,Species,490
+562,2072,Frosted Orache,Atriplex laciniata,NBNORG0000007704,Species,2382
+563,4645,Grass-leaved Orache,Atriplex littoralis,NBNORG0000007700,Species,5555
+564,19,,Atriplex littoralis x patula,NBNORG0000023325,Species hybrid,19
+565,196,Long-stalked Orache,Atriplex longipes,NBNORG0000007707,Species,202
+566,1,Annual Saltbush,Atriplex muelleri,NBNORG0000023519,Species,1
+567,33267,Common Orache,Atriplex patula,NBNORG0000007701,Species,37226
+568,147,Pedunculate Sea-purslane,Atriplex pedunculata,NBNORG0000007709,Species,150
+569,5428,Sea-purslane,Atriplex portulacoides,NBNORG0000007708,Species,6379
+570,158,Early Orache,Atriplex praecox,NBNORG0000053291,Species,165
+571,23859,Spear-leaved Orache,Atriplex prostrata,NBNORG0000007702,Species,29140
+572,859,,Atriplex prostrata agg.,NBNORG0000025187,Species aggregate,929
+573,37,,Atriplex prostrata x glabriuscula,NBNORG0000107913,Species hybrid,38
+574,35,,Atriplex prostrata x littoralis = A. x hulmeana,NBNORG0000090107,Species hybrid,36
+575,246,,Atriplex prostrata x longipes = A. x gustafssoniana,NBNORG0000090111,Species hybrid,269
+576,2,Purple Orache,Atriplex sagittata,NBNORG0000013391,Species,5
+577,2,Pop Saltbush,Atriplex spongiosa,NBNORG0000046032,Species,2
+578,4,Australian Orache,Atriplex suberecta,NBNORG0000013390,Species,4
+579,4,,Atriplex tatarica,NBNORG0000046034,Species,4
+580,1,,Atropa,NBNORG0000053292,Genus,3453
+581,2915,Deadly Nightshade,Atropa belladonna,NBNORG0000008265,Species,3452
+582,1,,Aubrieta,NBNORG0000053293,Genus,2195
+583,2066,Aubretia,Aubrieta deltoidea,NBNORG0000007580,Species,2192
+584,2,,Aucuba,NBNORG0000053294,Genus,1372
+585,791,Spotted-laurel,Aucuba japonica,NBNORG0000023518,Species,1366
+586,75,,Avena,NBNORG0000053296,Genus,29384
+587,9,Slender Oat,Avena barbata,NBNORG0000008737,Species,10
+588,4,Algerian Oat,Avena byzantina,NBNORG0000013233,Species,5
+589,20476,Wild-oat,Avena fatua,NBNORG0000007382,Species,23278
+590,29,,Avena fatua x sativa = A. x hybrida,NBNORG0000023600,Species hybrid,42
+591,3096,Oat,Avena sativa,NBNORG0000007383,Species,3677
+592,344,Winter Wild-oat,Avena sterilis,NBNORG0000013157,Species,1581
+593,1084,Winter Wild-oat,Avena sterilis subsp. ludoviciana,NBNORG0000053299,Subspecies,1218
+594,4,Animated Oat,Avena sterilis subsp. sterilis,NBNORG0000008691,Subspecies,4
+595,706,Bristle Oat,Avena strigosa,NBNORG0000053300,Species,708
+596,15,Russian Pigweed,Axyris amaranthoides,NBNORG0000013423,Species,15
+597,4,,Babiana ringens,NBNORG0000105175,Species,4
+598,1,,Baccharis,NBNORG0000053304,Genus,5
+599,4,Tree Groundsel,Baccharis halimifolia,NBNORG0000026732,Species,4
+600,4,,Baldellia,NBNORG0000053306,Genus,4353
+601,3893,Lesser Water-plantain,Baldellia ranunculoides,NBNORG0000007113,Species,4349
+602,4,,Baldellia ranunculoides subsp. ranunculoides,NBNORG0000104169,Subspecies,4
+603,1,,Ballota,NBNORG0000053307,Genus,33043
+604,3,False Dittany,Ballota acetabulosa,NBNORG0000047599,Species,3
+605,24534,Black Horehound,Ballota nigra,NBNORG0000008405,Species,33036
+606,468,,Ballota nigra subsp. meridionalis,NBNORG0000053308,Subspecies,516
+607,2,,Ballota nigra subsp. nigra,NBNORG0000053309,Subspecies,2
+608,1,,Ballota pseudodictamnus,NBNORG0000046043,Species,3
+609,19,,Bambusa,NBNORG0000057231,Genus,37
+610,69,,Barbarea,NBNORG0000053311,Genus,36410
+611,2812,Medium-flowered Winter-cress,Barbarea intermedia,NBNORG0000107914,Species,2934
+612,388,Small-flowered Winter-cress,Barbarea stricta,NBNORG0000007554,Species,397
+613,1508,American Winter-cress,Barbarea verna,NBNORG0000053312,Species,2190
+614,27512,Winter-cress,Barbarea vulgaris,NBNORG0000053313,Species,30810
+615,4,,Bartsia,NBNORG0000053314,Genus,402
+616,386,Alpine Bartsia,Bartsia alpina,NBNORG0000008356,Species,398
+617,228,Summer-cypress,Bassia scoparia,NBNORG0000107915,Species,244
+618,1,European Slough-grass,Beckmannia eruciformis,NBNORG0000023261,Species,1
+619,15,American Slough-grass,Beckmannia syzigachne,NBNORG0000053317,Species,15
+620,3,,Begonia,NBNORG0000053318,Genus,16
+621,22,,Bellis,NBNORG0000053323,Genus,126949
+622,114160,Daisy,Bellis perennis,NBNORG0000008562,Species,126925
+623,2,,Berberidaceae,NBNORG0000027249,Family,14629
+624,135,,Berberis,NBNORG0000053325,Genus,6608
+625,46,Clustered Barberry,Berberis aggregata,NBNORG0000053326,Species,50
+626,21,Box-leaved Barberry,Berberis buxifolia,NBNORG0000053327,Species,21
+627,698,Darwin's Barberry,Berberis darwinii,NBNORG0000013418,Species,744
+628,272,,Berberis darwinii x empetrifolia = B. x stenophylla,NBNORG0000090339,Species hybrid,288
+629,68,Gagnepain's Barberry,Berberis gagnepainii,NBNORG0000053328,Species,73
+630,2,,Berberis gagnepainii x candidula = B. x hybrido-gagnepainii,NBNORG0000089991,Species hybrid,2
+631,136,Great Barberry,Berberis glaucocarpa,NBNORG0000007471,Species,141
+632,1,,Berberis jamesiana,NBNORG0000047601,Species,1
+633,98,Chinese Barberry,Berberis julianae,NBNORG0000053330,Species,105
+634,3,,Berberis linearifolia,NBNORG0000047527,Species,3
+635,264,Thunberg's Barberry,Berberis thunbergii,NBNORG0000008768,Species,301
+636,3,,Berberis verruculosa,NBNORG0000053332,Species,5
+637,3923,Barberry,Berberis vulgaris,NBNORG0000007470,Species,4131
+638,1,,Berberis vulgaris x thunbergii = B. x ottawensis,NBNORG0000090192,Species hybrid,1
+639,86,Mrs Wilson's Barberry,Berberis wilsoniae,NBNORG0000053333,Species,100
+640,11,,Bergenia,NBNORG0000053334,Genus,377
+641,2,Hairy Bergenia,Bergenia ciliata,NBNORG0000046051,Species,2
+642,92,Heart-leaved Bergenia,Bergenia cordifolia,NBNORG0000023282,Species,104
+643,178,Elephant-ears,Bergenia crassifolia,NBNORG0000013170,Species,222
+644,23,,Bergenia crassifolia x ciliata = B. x schmidtii,NBNORG0000090003,Species hybrid,24
+645,1,,Berkheya,NBNORG0000053336,Genus,2
+646,1,Lobed African Thistle,Berkheya pinnatifida,NBNORG0000046053,Species,1
+647,279,Hoary Alison,Berteroa incana,NBNORG0000007540,Species,313
+648,3,,Berula,NBNORG0000053338,Genus,14578
+649,13919,Lesser Water-parsnip,Berula erecta,NBNORG0000053339,Species,14575
+650,3,,Beta,NBNORG0000053340,Genus,10783
+651,55,Caucasian Beet,Beta trigyna,NBNORG0000023514,Species,57
+652,2116,Beet,Beta vulgaris,NBNORG0000007698,Species,10722
+653,149,,Beta vulgaris subsp. cicla,NBNORG0000023479,Subspecies,201
+654,2,Swiss Chard,Beta vulgaris subsp. cicla var. flavescens,NBNORG0000023578,Variety,9
+655,6277,,Beta vulgaris subsp. maritima,NBNORG0000007699,Subspecies,7554
+656,622,,Beta vulgaris subsp. vulgaris,NBNORG0000053341,Subspecies,728
+657,12911,,Betula,NBNORG0000053342,Genus,150832
+658,2,,Betula alba pro parte,NBNORG0000107916,Species pro parte,2
+659,3,White Birch,Betula albosinensis,NBNORG0000047545,Species,4
+660,18,Jacquemont's Birch,Betula jacquemontii,NBNORG0000023304,Species,104
+661,1,,Betula lenta,NBNORG0000047606,Species,1
+662,1,,Betula maximowicziana,NBNORG0000047577,Species,1
+663,1160,Dwarf Birch,Betula nana,NBNORG0000008141,Species,1295
+664,7,Black Birch,Betula nigra,NBNORG0000025025,Species,43
+665,24,Paper Birch,Betula papyrifera,NBNORG0000023306,Species,87
+666,2,,Betula papyrifera x pendula,NBNORG0000047578,Species hybrid,2
+667,72264,Silver Birch,Betula pendula,NBNORG0000008138,Species,84280
+668,1,Swedish Birch,Betula pendula 'Laciniata',NBNORG0000025114,Species hybrid,3
+669,901,Hybrid Birch,Betula pendula x pubescens = B. x aurata,NBNORG0000028232,Species hybrid,969
+670,42604,,Betula pubescens,NBNORG0000008139,Species,49091
+671,2860,,Betula pubescens subsp. pubescens,NBNORG0000053343,Subspecies,2953
+672,344,,Betula pubescens subsp. tortuosa,NBNORG0000008140,Subspecies,344
+673,118,,Betula pubescens x nana = B. x intermedia,NBNORG0000090131,Species hybrid,118
+674,47,,Betula utilis,NBNORG0000025027,Species,254
+675,4,,Betulaceae,NBNORG0000027253,Family,420846
+676,66,,Bidens,NBNORG0000053344,Genus,17508
+677,3,,Bidens aurea,NBNORG0000047528,Species,3
+678,53,Spanish-needles,Bidens bipinnata,NBNORG0000008498,Species,53
+679,6479,Nodding Bur-marigold,Bidens cernua,NBNORG0000008495,Species,7026
+680,17,,Bidens cernua var. cernua,NBNORG0000041242,Variety,20
+681,42,,Bidens cernua var. radiata,NBNORG0000023465,Variety,43
+682,79,London Bur-marigold,Bidens connata,NBNORG0000053346,Species,144
+683,46,Fern-leaved Beggarticks,Bidens ferulifolia,NBNORG0000041243,Species,57
+684,470,Beggarticks,Bidens frondosa,NBNORG0000008497,Species,516
+685,43,Black-jack,Bidens pilosa,NBNORG0000013217,Species,43
+686,1,,Bidens subalternans,NBNORG0000046057,Species,1
+687,7963,Trifid Bur-marigold,Bidens tripartita,NBNORG0000008496,Species,9564
+688,2,,Bidens tripartita var. integra,NBNORG0000013216,Variety,3
+689,13,Tall Beggarticks,Bidens vulgata,NBNORG0000053348,Species,19
+690,2,,Bifora radians,NBNORG0000046059,Species,2
+691,1,,Biscutella auriculata,NBNORG0000046061,Species,1
+692,4,,Blackstonia,NBNORG0000053354,Genus,11597
+693,10708,Yellow-wort,Blackstonia perfoliata,NBNORG0000053355,Species,11588
+694,3,,Blysmus,NBNORG0000053364,Genus,4204
+695,1981,Flat-sedge,Blysmus compressus,NBNORG0000053365,Species,2191
+696,1944,Saltmarsh Flat-sedge,Blysmus rufus,NBNORG0000053366,Species,2010
+697,8,,Bolboschoenus laticarpus,NBNORG0000116087,Species,8
+698,10310,Sea Club-rush,Bolboschoenus maritimus,NBNORG0000007268,Species,12253
+699,9,,Boraginaceae,NBNORG0000027265,Family,322277
+700,3,,Borago,NBNORG0000053373,Genus,3922
+701,3511,Borage,Borago officinalis,NBNORG0000008245,Species,3895
+702,21,Slender Borage,Borago pygmaea,NBNORG0000008246,Species,24
+703,1,,Brachiaria,NBNORG0000053384,Genus,14
+704,11,Broad-leaved Signal-grass,Brachiaria platyphylla,NBNORG0000107917,Species,13
+705,128,,Brachyglottis compacta x laxifolia = B. 'Sunshine',NBNORG0000028233,Species hybrid,141
+706,17,Monro's Ragwort,Brachyglottis monroi,NBNORG0000053389,Species,19
+707,28,Hedge Ragwort,Brachyglottis repanda,NBNORG0000053390,Species,28
+708,24,,Brachypodium,NBNORG0000053391,Genus,88510
+709,35,Stiff Brome,Brachypodium distachyon,NBNORG0000053392,Species,35
+710,7914,Heath False-brome,Brachypodium pinnatum,NBNORG0000053393,Species,8480
+711,1101,,Brachypodium pinnatum s.l.,NBNORG0000006865,Species aggregate,1101
+712,37,Tor-grass,Brachypodium rupestre,NBNORG0000053394,Species,85
+713,71621,False-brome,Brachypodium sylvaticum,NBNORG0000053395,Species,78778
+714,6,,Brachypodium x cugnacii,NBNORG0000023533,Species hybrid,7
+715,202,,Brassica,NBNORG0000053398,Genus,38645
+716,25,Ethiopian Rape,Brassica carinata,NBNORG0000053399,Species,29
+717,99,Long-stalked Rape,Brassica elongata,NBNORG0000023554,Species,100
+718,10,Twiggy Turnip,Brassica fruticulosa,NBNORG0000013380,Species,10
+719,452,Chinese Mustard,Brassica juncea,NBNORG0000053400,Species,507
+720,10707,Rape,Brassica napus,NBNORG0000007499,Species,15401
+721,2,,Brassica napus subsp. napus,NBNORG0000008921,Subspecies,2
+722,3226,Oil-seed Rape,Brassica napus subsp. oleifera,NBNORG0000053401,Subspecies,3787
+723,34,,Brassica napus subsp. rapifera,NBNORG0000053402,Subspecies,37
+724,7,,Brassica napus x rapa = B. x harmsiana,NBNORG0000090345,Species hybrid,8
+725,8695,Black Mustard,Brassica nigra,NBNORG0000053403,Species,9866
+726,1117,Wild Cabbage,Brassica oleracea,NBNORG0000007498,Species,2162
+727,2,Cauliflower,Brassica oleracea var. botrytis,NBNORG0000023511,Variety,3
+728,49,,Brassica oleracea var. capitata,NBNORG0000023558,Variety,50
+729,14,,Brassica oleracea var. gemmifera,NBNORG0000023559,Variety,15
+730,623,Wild Cabbage,Brassica oleracea var. oleracea,NBNORG0000100108,Variety,668
+731,2,Savoy Cabbage,Brassica oleracea var. sabauda,NBNORG0000013378,Variety,2
+732,17,Kale,Brassica oleracea var. viridis,NBNORG0000013422,Variety,28
+733,8097,Turnip,Brassica rapa,NBNORG0000007500,Species,10242
+734,924,,Brassica rapa subsp. campestris,NBNORG0000053404,Subspecies,1003
+735,60,Turnip-rape,Brassica rapa subsp. oleifera,NBNORG0000053405,Subspecies,62
+736,53,Turnip,Brassica rapa subsp. rapa,NBNORG0000053406,Subspecies,71
+737,88,Pale Cabbage,Brassica tournefortii,NBNORG0000013446,Species,88
+738,90,,Brassicaceae,NBNORG0000007497,Family,948496
+739,83,,Briza,NBNORG0000053409,Genus,44346
+740,792,Greater Quaking-grass,Briza maxima,NBNORG0000007363,Species,856
+741,38560,Quaking-grass,Briza media,NBNORG0000007361,Species,42536
+742,701,Lesser Quaking-grass,Briza minor,NBNORG0000007362,Species,870
+743,1,,Bromeliaceae,NBNORG0000027275,Family,43
+744,2,,Bromopsis,NBNORG0000053410,Genus,57507
+745,301,Lesser Hairy-brome,Bromopsis benekenii,NBNORG0000007367,Species,313
+746,16950,Upright Brome,Bromopsis erecta,NBNORG0000053411,Species,18250
+747,805,,Bromopsis inermis,NBNORG0000053412,Species,1002
+748,149,,Bromopsis inermis subsp. inermis,NBNORG0000053413,Subspecies,171
+749,2,,Bromopsis inermis subsp. pumpelliana,NBNORG0000053414,Subspecies,2
+750,35014,Hairy-brome,Bromopsis ramosa,NBNORG0000053415,Species,37937
+751,232,,Bromus,NBNORG0000053416,Genus,146668
+752,2,Weedy Brome,Bromus alopecuros,NBNORG0000053417,Species,2
+753,1,,Bromus arduennensis,NBNORG0000046077,Species,1
+754,542,Field Brome,Bromus arvensis,NBNORG0000007370,Species,574
+755,2,Rattlesnake Brome,Bromus briziformis,NBNORG0000053418,Species,2
+756,6592,Meadow Brome,Bromus commutatus,NBNORG0000053419,Species,8093
+757,23,,Bromus commutatus x racemosus,NBNORG0000013476,Species hybrid,27
+758,2274,Great Brome,Bromus diandrus,NBNORG0000026745,Species,2458
+759,26442,Soft-brome,Bromus hordeaceus,NBNORG0000008692,Species,63027
+760,6,,Bromus hordeaceus subsp. divaricatus,NBNORG0000107918,Subspecies,6
+761,476,Least Soft-brome,Bromus hordeaceus subsp. ferronii,NBNORG0000053420,Subspecies,561
+762,27984,,Bromus hordeaceus subsp. hordeaceus,NBNORG0000007368,Subspecies,30966
+763,119,,Bromus hordeaceus subsp. longipedicellatus,NBNORG0000053421,Subspecies,132
+764,38,Divergent Soft-brome,Bromus hordeaceus subsp. molliformis,NBNORG0000053422,Subspecies,38
+765,376,Sand Soft-brome,Bromus hordeaceus subsp. thominei,NBNORG0000053423,Subspecies,530
+766,1608,Lesser Soft-brome,Bromus hordeaceus x lepidus = B. x pseudothominei,NBNORG0000090106,Species hybrid,1667
+767,1,,Bromus intermedius,NBNORG0000046080,Species,1
+768,365,Interrupted Brome,Bromus interruptus,NBNORG0000053424,Species,400
+769,65,Thunberg's Brome,Bromus japonicus,NBNORG0000107919,Species,65
+770,34,Large-headed Brome,Bromus lanceolatus,NBNORG0000023349,Species,35
+771,2327,Slender Soft-brome,Bromus lepidus,NBNORG0000053425,Species,2432
+772,490,Compact Brome,Bromus madritensis,NBNORG0000053426,Species,575
+773,96,Smith's Brome,Bromus pseudosecalinus,NBNORG0000053427,Species,97
+774,2682,Smooth Brome,Bromus racemosus,NBNORG0000007369,Species,3668
+775,317,Ripgut Brome,Bromus rigidus,NBNORG0000026746,Species,386
+776,38,Foxtail Brome,Bromus rubens,NBNORG0000026747,Species,38
+777,5,Broom Brome,Bromus scoparius,NBNORG0000046082,Species,5
+778,1532,Rye Brome,Bromus secalinus,NBNORG0000007371,Species,2482
+779,16,Rough Brome,Bromus squarrosus,NBNORG0000053428,Species,16
+780,50980,Barren Brome,Bromus sterilis,NBNORG0000026748,Species,59951
+781,377,Drooping Brome,Bromus tectorum,NBNORG0000026749,Species,405
+782,3,Bush-violet,Browallia speciosa,NBNORG0000046085,Species,3
+783,285,Great Forget-me-not,Brunnera macrophylla,NBNORG0000053431,Species,321
+784,4,,Bryonia,NBNORG0000053432,Genus,32924
+785,27793,White Bryony,Bryonia dioica,NBNORG0000008075,Species,32919
+786,195,Buddleja,Buddleja,NBNORG0000053433,Genus,29096
+787,34,Alternate-leaved Butterfly-bush,Buddleja alternifolia,NBNORG0000013317,Species,50
+788,21069,Butterfly-bush,Buddleja davidii,NBNORG0000053434,Species,28169
+789,90,Weyer's Butterfly-bush,Buddleja davidii x globosa = B. x weyeriana,NBNORG0000028234,Species hybrid,102
+790,298,Orange-ball-tree,Buddleja globosa,NBNORG0000013488,Species,387
+791,18,Southern Warty-cabbage,Bunias erucago,NBNORG0000007535,Species,18
+792,561,Warty-cabbage,Bunias orientalis,NBNORG0000007536,Species,728
+793,510,Great Pignut,Bunium bulbocastanum,NBNORG0000008049,Species,512
+794,3,Willow-leaved Yellow Oxeye,Buphthalmum salicifolium,NBNORG0000013269,Species,6
+795,35,Small Hare's-ear,Bupleurum baldense,NBNORG0000008033,Species,43
+796,30,Sickle-leaved Hare's-ear,Bupleurum falcatum,NBNORG0000008035,Species,32
+797,4,,Bupleurum fontanesii,NBNORG0000023402,Species,4
+798,43,Shrubby Hare's-ear,Bupleurum fruticosum,NBNORG0000008031,Species,44
+799,704,Thorow-wax,Bupleurum rotundifolium,NBNORG0000008032,Species,771
+800,288,False Thorow-wax,Bupleurum subovatum,NBNORG0000053442,Species,297
+801,2079,Slender Hare's-ear,Bupleurum tenuissimum,NBNORG0000008034,Species,3109
+802,1,,Butomaceae,NBNORG0000027280,Family,9143
+803,1,,Butomus,NBNORG0000053443,Genus,9142
+804,8365,Flowering-rush,Butomus umbellatus,NBNORG0000007121,Species,9139
+805,6,,Buxus,NBNORG0000053444,Genus,9292
+806,6,Balearic Box,Buxus balearica,NBNORG0000025029,Species,9
+807,7676,Box,Buxus sempervirens,NBNORG0000007760,Species,9263
+808,58,Carolina Water-shield,Cabomba caroliniana,NBNORG0000053446,Species,69
+809,2,Tara,Caesalpinia spinosa,NBNORG0000046092,Species,2
+810,2,,Cakile,NBNORG0000053449,Genus,3713
+811,3430,Sea Rocket,Cakile maritima,NBNORG0000007515,Species,3711
+812,17,,Cakile maritima subsp. integrifolia,NBNORG0000107920,Subspecies,17
+813,18,,Calamagrostis,NBNORG0000053450,Genus,11854
+814,2,,Calamagrostis argentea,NBNORG0000047607,Species,2
+815,2208,Purple Small-reed,Calamagrostis canescens,NBNORG0000053451,Species,2286
+816,21,,Calamagrostis canescens x stricta = C. x gracilescens,NBNORG0000090209,Species hybrid,21
+817,7882,Wood Small-reed,Calamagrostis epigejos,NBNORG0000007391,Species,8915
+818,173,,Calamagrostis epigejos x Ammophila arenaria = X Calammophila baltica,NBNORG0000089937,Species hybrid,173
+819,58,Scandinavian Small-reed,Calamagrostis purpurea,NBNORG0000053452,Species,64
+820,13,Scottish Small-reed,Calamagrostis scotica,NBNORG0000007393,Species,15
+821,524,Narrow Small-reed,Calamagrostis stricta,NBNORG0000007392,Species,530
+822,1,Rock Purslane,Calandrinia umbellata,NBNORG0000053258,Species,1
+823,41,Slipperwort,Calceolaria chelidonioides,NBNORG0000008775,Species,42
+824,3,Bush Slipperwort,Calceolaria integrifolia,NBNORG0000047348,Species,3
+825,79,Field Marigold,Calendula arvensis,NBNORG0000008525,Species,90
+826,3149,Pot Marigold,Calendula officinalis,NBNORG0000008524,Species,4338
+827,2,White Ball-mustard,Calepina irregularis,NBNORG0000046095,Species,3
+828,123,Bog Arum,Calla palustris,NBNORG0000007253,Species,133
+829,36,China Aster,Callistephus chinensis,NBNORG0000013172,Species,39
+830,18,,Callitrichaceae,NBNORG0000027291,Family,25
+831,24039,,Callitriche,NBNORG0000053265,Genus,84962
+832,801,,Callitriche aggregate,NBNORG0000041350,Species aggregate,1260
+833,789,Pedunculate Water-starwort,Callitriche brutia,NBNORG0000008001,Species,867
+834,1,,Callitriche cophocarpa,NBNORG0000008000,Species,1
+835,3816,Intermediate Water-starwort,Callitriche hamulata,NBNORG0000053266,Species,4037
+836,5885,,Callitriche hamulata sens.lat.,NBNORG0000025167,Species aggregate,5905
+837,2692,Autumnal Water-starwort,Callitriche hermaphroditica,NBNORG0000007998,Species,2727
+838,4084,Blunt-fruited Water-starwort,Callitriche obtusangula,NBNORG0000007997,Species,4413
+839,54,Narrow-fruited Water-starwort,Callitriche palustris,NBNORG0000008693,Species,66
+840,5287,Various-leaved Water-starwort,Callitriche platycarpa,NBNORG0000053267,Species,5530
+841,14680,Common Water-starwort,Callitriche stagnalis,NBNORG0000026755,Species,16106
+842,17954,,Callitriche stagnalis sensu lato,NBNORG0000060391,Species aggregate,18317
+843,372,Short-leaved Water-starwort,Callitriche truncata,NBNORG0000007999,Species,432
+844,3,,Callitriche truncata subsp. occidentalis,NBNORG0000107921,Subspecies,4
+845,187,,Calluna,NBNORG0000053268,Genus,66916
+846,60148,Heather,Calluna vulgaris,NBNORG0000008185,Species,66713
+847,22,,Calotis cuneifolia,NBNORG0000053272,Species,22
+848,4,Hairy Bur-daisy,Calotis hispidula,NBNORG0000053273,Species,4
+849,1,Yellow Bur-daisy,Calotis lappulacea,NBNORG0000023485,Species,1
+850,74,,Caltha,NBNORG0000053274,Genus,54812
+851,52829,Marsh-marigold,Caltha palustris,NBNORG0000007424,Species,54737
+852,75,,Caltha palustris var. radicans,NBNORG0000070459,Variety,75
+853,979,Bindweed,Calystegia,NBNORG0000053277,Genus,94303
+854,2063,Hairy Bindweed,Calystegia pulchra,NBNORG0000053278,Species,2173
+855,136,,Calystegia pulchra x silvatica = C. x howittiorum,NBNORG0000090255,Species hybrid,137
+856,35258,Hedge Bindweed,Calystegia sepium,NBNORG0000053279,Species,60085
+857,5330,,Calystegia sepium sens.lat.,NBNORG0000047367,Species aggregate,5332
+858,447,,Calystegia sepium subsp. roseata,NBNORG0000008694,Subspecies,463
+859,16376,Great Bindweed,Calystegia sepium subsp. sepium,NBNORG0000053280,Subspecies,18192
+860,25,,Calystegia sepium subsp. sepium forma colorata,NBNORG0000095895,Form,28
+861,19,,Calystegia sepium subsp. sepium forma schizoflora,NBNORG0000095896,Form,34
+862,2,,Calystegia sepium subsp. spectabilis,NBNORG0000023456,Subspecies,2
+863,41,,Calystegia sepium x pulchra = C. x scanica,NBNORG0000028235,Species hybrid,42
+864,513,,Calystegia sepium x silvatica = C. x lucana,NBNORG0000028236,Species hybrid,593
+865,21872,Large Bindweed,Calystegia silvatica,NBNORG0000053281,Species,27903
+866,19,,Calystegia silvatica silvatica var. quinquepartita,NBNORG0000047475,Variety,19
+867,65,,Calystegia silvatica subsp. disjuncta,NBNORG0000053282,Subspecies,71
+868,2,,Calystegia silvatica subsp. fraterniflora,NBNORG0000053283,Subspecies,2
+869,6,,Calystegia silvatica subsp. silvatica,NBNORG0000053284,Subspecies,47
+870,9,,Calystegia silvatica sylvatica var. silvatica,NBNORG0000047478,Variety,14
+871,1,,Calystegia silvatica var. quinquepartita,NBNORG0000023457,Variety,54
+872,1918,Sea Bindweed,Calystegia soldanella,NBNORG0000053285,Species,2202
+873,12,,Calystegia subsp. sepium forma colorata,NBNORG0000013225,Form,16
+874,23,,Calystegia subsp. sepium forma schizoflora,NBNORG0000023290,Form,24
+875,2,,Camassia leichtlinii,NBNORG0000047529,Species,2
+876,2,Common Camash,Camassia quamash,NBNORG0000053287,Species,3
+877,502,,Camelina,NBNORG0000053288,Genus,1232
+878,31,,Camelina alyssum,NBNORG0000053289,Species,31
+879,1,,Camelina alyssum subsp. integerrima,NBNORG0000047408,Subspecies,1
+880,72,Lesser Gold-of-pleasure,Camelina microcarpa,NBNORG0000007578,Species,74
+881,26,,Camelina rumelica,NBNORG0000046102,Species,26
+882,556,Gold-of-pleasure,Camelina sativa,NBNORG0000007577,Species,597
+883,8,,Camellia,NBNORG0000105143,Genus,12
+884,2,,Camellia japonica,NBNORG0000047530,Species,2
+885,153,,Campanula,NBNORG0000053290,Genus,71414
+886,84,Cornish Bellflower,Campanula alliariifolia,NBNORG0000008445,Species,86
+887,5,Tussock Bellflower,Campanula carpatica,NBNORG0000023308,Species,7
+888,5,Fairy's-thimble,Campanula cochleariifolia,NBNORG0000047564,Species,5
+889,3,Italian Bellflower,Campanula fragilis,NBNORG0000023381,Species,3
+890,1,Adriatic Bellflower,Campanula garganica,NBNORG0000046104,Species,1
+891,5548,Clustered Bellflower,Campanula glomerata,NBNORG0000008441,Species,5854
+892,95,Milky Bellflower,Campanula lactiflora,NBNORG0000053456,Species,96
+893,7085,Giant Bellflower,Campanula latifolia,NBNORG0000008437,Species,7254
+894,243,Canterbury-bells,Campanula medium,NBNORG0000008446,Species,285
+895,1102,Spreading Bellflower,Campanula patula,NBNORG0000008443,Species,1210
+896,1281,Peach-leaved Bellflower,Campanula persicifolia,NBNORG0000008440,Species,1391
+897,1638,Adria Bellflower,Campanula portenschlagiana,NBNORG0000053457,Species,1794
+898,2235,Trailing Bellflower,Campanula poscharskyana,NBNORG0000023320,Species,2634
+899,19,Chimney Bellflower,Campanula pyramidalis,NBNORG0000023310,Species,23
+900,1869,Creeping Bellflower,Campanula rapunculoides,NBNORG0000008439,Species,2055
+901,317,Rampion Bellflower,Campanula rapunculus,NBNORG0000008444,Species,387
+902,6,Broad-leaved Harebell,Campanula rhomboidalis,NBNORG0000013267,Species,6
+903,37109,Harebell,Campanula rotundifolia,NBNORG0000008442,Species,40315
+904,1,,Campanula rotundifolia subsp. rotundifolia,NBNORG0000116104,Subspecies,1
+905,7108,Nettle-leaved Bellflower,Campanula trachelium,NBNORG0000008438,Species,7816
+906,1,,Campanulaceae,NBNORG0000027293,Family,101129
+907,1,,Cannabaceae,NBNORG0000041373,Family,26339
+908,773,Hemp,Cannabis sativa,NBNORG0000008695,Species,857
+909,2,,Capsella,NBNORG0000053463,Genus,75347
+910,66685,Shepherd's-purse,Capsella bursa-pastoris,NBNORG0000053464,Species,75210
+911,22,,Capsella bursa-pastoris x rubella = C. x gracilis,NBNORG0000090303,Species hybrid,28
+912,70,Pink Shepherd's-purse,Capsella rubella,NBNORG0000053465,Species,105
+913,51,Sweet Pepper,Capsicum annuum,NBNORG0000023257,Species,56
+914,938,,Cardamine,NBNORG0000053468,Genus,205693
+915,10706,Large Bitter-cress,Cardamine amara,NBNORG0000007548,Species,11237
+916,1231,Coralroot Bittercress,Cardamine bulbifera,NBNORG0000007553,Species,1881
+917,1,,Cardamine chelidonia,NBNORG0000047350,Species,1
+918,87,New Zealand Bitter-cress,Cardamine corymbosa,NBNORG0000053469,Species,96
+919,55665,Wavy Bitter-cress,Cardamine flexuosa,NBNORG0000007550,Species,59387
+920,12,,Cardamine flexuosa x hirsuta = C. x zahlbruckneriana,NBNORG0000090344,Species hybrid,14
+921,28,Pinnate Coralroot,Cardamine heptaphylla,NBNORG0000053470,Species,38
+922,43839,Hairy Bitter-cress,Cardamine hirsuta,NBNORG0000007551,Species,47869
+923,1551,Narrow-leaved Bitter-cress,Cardamine impatiens,NBNORG0000007549,Species,2317
+924,1,Cut-leaved Bitter-cress,Cardamine laciniata,NBNORG0000053471,Species,1
+925,75657,Cuckooflower,Cardamine pratensis,NBNORG0000007547,Species,81469
+926,79,,Cardamine pratensis x flexuosa = C. x fringsii,NBNORG0000090062,Species hybrid,95
+927,238,Greater Cuckooflower,Cardamine raphanifolia,NBNORG0000053472,Species,240
+928,49,Trefoil Cress,Cardamine trifolia,NBNORG0000007552,Species,51
+929,23,,Carduus,NBNORG0000053475,Genus,41109
+930,19708,Welted Thistle,Carduus crispus,NBNORG0000008593,Species,22081
+931,561,Broad-winged Thistle,Carduus crispus subsp. multiflorus,NBNORG0000107922,Subspecies,643
+932,221,,Carduus crispus x nutans = C. x stangii,NBNORG0000028237,Species hybrid,262
+933,1,Giant Thistle,Carduus macrocephalus,NBNORG0000023342,Species,1
+934,14409,Musk Thistle,Carduus nutans,NBNORG0000008592,Species,14869
+935,124,Plymouth Thistle,Carduus pycnocephalus,NBNORG0000008591,Species,127
+936,3157,Slender Thistle,Carduus tenuiflorus,NBNORG0000008590,Species,3744
+937,2,,Carduus thoermeri,NBNORG0000053477,Species,2
+938,5233,Sedge,Carex,NBNORG0000052187,Genus,807552
+939,4490,Slender Tufted-sedge,Carex acuta,NBNORG0000007310,Species,4785
+940,13,,Carex acuta x elata = C. x prolixa,NBNORG0000090297,Species hybrid,17
+941,44,,Carex acuta x nigra,NBNORG0000052170,Species hybrid,68
+942,21354,Lesser Pond-sedge,Carex acutiformis,NBNORG0000007292,Species,22554
+943,43,,Carex acutiformis x acuta = C. x subgracilis,NBNORG0000089915,Species hybrid,62
+944,7,,Carex acutiformis x riparia = C. x sooi,NBNORG0000090176,Species hybrid,10
+945,16,,Carex acutiformis x vesicaria = C. x ducellieri,NBNORG0000028238,Species hybrid,22
+946,455,Fibrous Tussock-sedge,Carex appropinquata,NBNORG0000053479,Species,463
+947,1594,Water Sedge,Carex aquatilis,NBNORG0000007311,Species,1662
+948,6,,Carex aquatilis x acuta,NBNORG0000053480,Species hybrid,6
+949,12,,Carex aquatilis x bigelowii = C. x limula,NBNORG0000090296,Species hybrid,12
+950,41,,Carex aquatilis x nigra = C. x hibernica,NBNORG0000090233,Species hybrid,41
+951,8463,Sand Sedge,Carex arenaria,NBNORG0000052188,Species,8892
+952,575,Black Alpine-sedge,Carex atrata,NBNORG0000007307,Species,607
+953,189,Scorched Alpine-sedge,Carex atrofusca,NBNORG0000007308,Species,196
+954,7,Bicoloured Sedge,Carex bicolor,NBNORG0000007315,Species,7
+955,2549,Stiff Sedge,Carex bigelowii,NBNORG0000053481,Species,2597
+956,18117,Green-ribbed Sedge,Carex binervis,NBNORG0000053482,Species,18680
+957,9,,Carex binervis x punctata,NBNORG0000013494,Species hybrid,9
+958,4,,Carex brunnea,NBNORG0000047059,Species,4
+959,13,Silver-spiked Sedge,Carex buchananii,NBNORG0000107923,Species,17
+960,82,Club Sedge,Carex buxbaumii,NBNORG0000007306,Species,85
+961,1475,Hair Sedge,Carex capillaris,NBNORG0000007285,Species,1569
+962,3,,Carex capitata,NBNORG0000007328,Species,3
+963,20474,Spring-sedge,Carex caryophyllea,NBNORG0000053483,Species,21360
+964,65,String Sedge,Carex chordorrhiza,NBNORG0000053484,Species,66
+965,4,Crawford's Sedge,Carex crawfordii,NBNORG0000053485,Species,4
+966,7913,White Sedge,Carex curta,NBNORG0000007325,Species,8343
+967,1,Davall's Sedge,Carex davalliana,NBNORG0000053486,Species,1
+968,2,,Carex demissa x C. hostiana,NBNORG0000043853,Species hybrid,2
+969,231,Starved Wood-sedge,Carex depauperata,NBNORG0000007286,Species,355
+970,2915,Lesser Tussock-sedge,Carex diandra,NBNORG0000007317,Species,3038
+971,897,Fingered Sedge,Carex digitata,NBNORG0000007304,Species,980
+972,6589,Dioecious Sedge,Carex dioica,NBNORG0000053487,Species,6742
+973,4497,Distant Sedge,Carex distans,NBNORG0000007280,Species,4839
+974,21,,Carex distans x extensa = C. x tornabenii,NBNORG0000090266,Species hybrid,21
+975,5,,Carex distans x hostiana = C. x muelleriana,NBNORG0000090287,Species hybrid,9
+976,3,,Carex distans x viridula = C. x luteola,NBNORG0000090347,Species hybrid,3
+977,11162,Brown Sedge,Carex disticha,NBNORG0000053488,Species,11604
+978,1687,Divided Sedge,Carex divisa,NBNORG0000053489,Species,3704
+979,3086,,Carex divulsa,NBNORG0000013399,Species,12057
+980,6379,,Carex divulsa subsp. divulsa,NBNORG0000053490,Subspecies,7717
+981,739,Many-leaved Sedge,Carex divulsa subsp. leersii,NBNORG0000053491,Subspecies,810
+982,20,,Carex divulsa x remota = C. x emmae,NBNORG0000090220,Species hybrid,20
+983,30206,Star Sedge,Carex echinata,NBNORG0000007323,Species,31721
+984,6,,Carex echinata x curta = C. x biharica,NBNORG0000090031,Species hybrid,6
+985,6,,Carex echinata x dioica = C. x gaudiniana,NBNORG0000090048,Species hybrid,6
+986,4754,Tufted-sedge,Carex elata,NBNORG0000007309,Species,4903
+987,657,Elongated Sedge,Carex elongata,NBNORG0000007322,Species,751
+988,539,Rare Spring-sedge,Carex ericetorum,NBNORG0000007302,Species,575
+989,2657,Long-bracted Sedge,Carex extensa,NBNORG0000007284,Species,2811
+990,259,Downy-fruited Sedge,Carex filiformis,NBNORG0000007294,Species,305
+991,63065,Glaucous Sedge,Carex flacca,NBNORG0000053492,Species,66434
+992,72,Large Yellow-sedge,Carex flava,NBNORG0000007283,Species,85
+993,757,,Carex flava agg.,NBNORG0000025188,Species aggregate,763
+994,10,,Carex flava x viridula = C. x alsatica,NBNORG0000090388,Species hybrid,18
+995,11,,Carex fusca auct.,NBNORG0000026758,Species pro parte,11
+996,8,,Carex glacialis,NBNORG0000053493,Species,8
+997,41562,Hairy Sedge,Carex hirta,NBNORG0000007299,Species,45827
+998,5,,Carex hirta x vesicaria = C. x grossii,NBNORG0000090288,Species hybrid,7
+999,12317,Tawny Sedge,Carex hostiana,NBNORG0000007282,Species,12726
+1000,2049,,Carex hostiana x viridula = C. x fulva,NBNORG0000028239,Species hybrid,2072
+1001,2386,Dwarf Sedge,Carex humilis,NBNORG0000053494,Species,2795
+1002,156,Hare's-foot Sedge,Carex lachenalii,NBNORG0000053495,Species,161
+1003,28,,Carex lachenalii x curta = C. x helvola,NBNORG0000090032,Species hybrid,28
+1004,6503,Smooth-stalked Sedge,Carex laevigata,NBNORG0000053496,Species,6841
+1005,14,,Carex laevigata x binervis = C. x deserta,NBNORG0000089980,Species hybrid,14
+1006,3683,Slender Sedge,Carex lasiocarpa,NBNORG0000007300,Species,3744
+1007,25,,Carex lasiocarpa x riparia = C. x evoluta,NBNORG0000090309,Species hybrid,25
+1008,2982,Bog-sedge,Carex limosa,NBNORG0000007297,Species,3081
+1009,714,Tall Bog-sedge,Carex magellanica,NBNORG0000007298,Species,773
+1010,3,,Carex magellanica subsp. irrigua,NBNORG0000107924,Subspecies,3
+1011,378,Curved Sedge,Carex maritima,NBNORG0000007320,Species,399
+1012,171,Bristle Sedge,Carex microglochin,NBNORG0000007327,Species,171
+1013,839,Soft-leaved Sedge,Carex montana,NBNORG0000007303,Species,1234
+1014,718,Prickly Sedge,Carex muricata,NBNORG0000024708,Species,5625
+1015,185,,Carex muricata agg. sensu lato,NBNORG0000007321,Species sensu lato,188
+1016,101,,Carex muricata subsp. muricata,NBNORG0000053498,Subspecies,153
+1017,4343,Small-fruited Prickly-sedge,Carex muricata subsp. pairae,NBNORG0000091579,Subspecies,4663
+1018,21,,Carex muricata x divulsa,NBNORG0000107925,Species hybrid,21
+1019,49454,Common Sedge,Carex nigra,NBNORG0000007313,Species,50548
+1020,39,,Carex nigra x bigelowii = C. x decolorans,NBNORG0000089979,Species hybrid,40
+1021,34,,Carex nigra x elata = C. x turfosa,NBNORG0000090056,Species hybrid,35
+1022,71,Close-headed Alpine-sedge,Carex norvegica,NBNORG0000053499,Species,73
+1023,371,Bird's-foot Sedge,Carex ornithopoda,NBNORG0000007305,Species,441
+1024,27718,False Fox-sedge,Carex otrubae,NBNORG0000007318,Species,31089
+1025,9,,Carex otrubae x divulsa,NBNORG0000107926,Species hybrid,9
+1026,1306,,Carex otrubae x remota = C. x pseudoaxillaris,NBNORG0000090330,Species hybrid,1347
+1027,28492,Oval Sedge,Carex ovalis,NBNORG0000007326,Species,29932
+1028,9608,Pale Sedge,Carex pallescens,NBNORG0000007293,Species,9904
+1029,45628,Carnation Sedge,Carex panicea,NBNORG0000007295,Species,46681
+1030,14445,Greater Tussock-sedge,Carex paniculata,NBNORG0000007316,Species,14967
+1031,18,,Carex paniculata x appropinquata = C. x rotae,NBNORG0000089948,Species hybrid,19
+1032,12,,Carex paniculata x curta = C. x ludibunda,NBNORG0000090033,Species hybrid,12
+1033,19,,Carex paniculata x diandra = C. x beckmannii,NBNORG0000090047,Species hybrid,19
+1034,467,,Carex paniculata x remota (C. x boenninghausiana),NBNORG0000090373,Species hybrid,486
+1035,1650,Few-flowered Sedge,Carex pauciflora,NBNORG0000053500,Species,1659
+1036,28233,Pendulous Sedge,Carex pendula,NBNORG0000053501,Species,34252
+1037,17844,Pill Sedge,Carex pilulifera,NBNORG0000007301,Species,18630
+1038,6926,Cyperus Sedge,Carex pseudocyperus,NBNORG0000007287,Species,7560
+1039,4,,Carex pseudocyperus x rostrata = C. x justi-schmidtii,NBNORG0000090326,Species hybrid,5
+1040,18094,Flea Sedge,Carex pulicaris,NBNORG0000007329,Species,18904
+1041,591,Dotted Sedge,Carex punctata,NBNORG0000007281,Species,741
+1042,405,Mountain Bog-sedge,Carex rariflora,NBNORG0000053502,Species,414
+1043,81,Estuarine Sedge,Carex recta,NBNORG0000007312,Species,81
+1044,8,,Carex recta x aquatilis = C. x grantii,NBNORG0000089952,Species hybrid,8
+1045,38909,Remote Sedge,Carex remota,NBNORG0000007324,Species,42476
+1046,23432,Greater Pond-sedge,Carex riparia,NBNORG0000007291,Species,25270
+1047,2,,Carex riparia x rostrata,NBNORG0000047608,Species hybrid,2
+1048,4,,Carex riparia x vesicaria = C. x csomadensis,NBNORG0000090363,Species hybrid,4
+1049,26632,Bottle Sedge,Carex rostrata,NBNORG0000007288,Species,27421
+1050,196,,Carex rostrata x vesicaria = C. x involuta,NBNORG0000090207,Species hybrid,197
+1051,336,Rock Sedge,Carex rupestris,NBNORG0000053503,Species,347
+1052,2,Saltmarsh Sedge,Carex salina,NBNORG0000091580,Species,2
+1053,706,Russet Sedge,Carex saxatilis,NBNORG0000007290,Species,781
+1054,1,,Carex saxatilis x viridula subsp. brachyrrhyncha,NBNORG0000091193,Subspecies hybrid,1
+1055,8704,Spiked Sedge,Carex spicata,NBNORG0000053504,Species,10129
+1056,4624,Thin-spiked Wood-sedge,Carex strigosa,NBNORG0000053505,Species,4993
+1057,39926,Wood-sedge,Carex sylvatica,NBNORG0000053506,Species,43707
+1058,4,Three-nerved Sedge,Carex trinervis,NBNORG0000007314,Species,5
+1059,695,Sheathed Sedge,Carex vaginata,NBNORG0000007296,Species,762
+1060,6028,Bladder-sedge,Carex vesicaria,NBNORG0000007289,Species,6480
+1061,70,Mountain Bladder-sedge,Carex vesicaria x saxatilis = C. x grahamii,NBNORG0000090184,Species hybrid,73
+1062,1,,Carex virgata,NBNORG0000047068,Species,1
+1063,1088,Yellow Sedge,Carex viridula,NBNORG0000053507,Species,40810
+1064,7476,,Carex viridula subsp. brachyrrhyncha,NBNORG0000053508,Subspecies,7800
+1065,29055,,Carex viridula subsp. oedocarpa,NBNORG0000053509,Subspecies,29538
+1066,2262,Small-fruited Yellow-sedge,Carex viridula subsp. viridula,NBNORG0000053510,Subspecies,2370
+1067,243,True Fox-sedge,Carex vulpina,NBNORG0000007319,Species,504
+1068,36,American Fox-sedge,Carex vulpinoidea,NBNORG0000053511,Species,39
+1069,5,,Carlina,NBNORG0000053512,Genus,12451
+1070,11005,Carline Thistle,Carlina vulgaris,NBNORG0000008587,Species,12445
+1071,11,,Carpinus,NBNORG0000053513,Genus,27507
+1072,20163,Hornbeam,Carpinus betulus,NBNORG0000008143,Species,27485
+1073,4,,Carpobrotus,NBNORG0000053514,Genus,867
+1074,27,Sally-my-handsome,Carpobrotus acinaciformis,NBNORG0000053515,Species,27
+1075,684,Hottentot-fig,Carpobrotus edulis,NBNORG0000053516,Species,799
+1076,40,,Carpobrotus edulis var. edulis,NBNORG0000041380,Variety,40
+1077,43,,Carpobrotus edulis var. rubescens,NBNORG0000008753,Variety,43
+1078,37,Angular Sea-fig,Carpobrotus glaucescens,NBNORG0000013244,Species,37
+1079,42,Cress Rocket,Carrichtera annua,NBNORG0000053518,Species,42
+1080,78,Downy Safflower,Carthamus lanatus,NBNORG0000013252,Species,79
+1081,230,Safflower,Carthamus tinctorius,NBNORG0000013393,Species,253
+1082,184,,Carum,NBNORG0000053521,Genus,5156
+1083,788,Caraway,Carum carvi,NBNORG0000008048,Species,817
+1084,4116,Whorled Caraway,Carum verticillatum,NBNORG0000053522,Species,4155
+1085,3,Shagbark Hickory,Carya ovata,NBNORG0000053525,Species,6
+1086,26,Carnation,Caryophyllaceae,NBNORG0000027309,Family,997462
+1087,6,,Caryopteris incana x mongholica = C. x clandonensis,NBNORG0000090124,Species hybrid,8
+1088,1,,Cassia,NBNORG0000053527,Genus,1
+1089,2,Golden-bush,Cassinia fulvida,NBNORG0000053529,Species,3
+1090,18,,Castanea,NBNORG0000053530,Genus,32815
+1091,25459,Sweet Chestnut,Castanea sativa,NBNORG0000053531,Species,32796
+1092,4515,Whorl-grass,Catabrosa aquatica,NBNORG0000053536,Species,4935
+1093,14,,Catabrosa aquatica var. aquatica,NBNORG0000100114,Variety,14
+1094,82,,Catabrosa aquatica var. uniflora,NBNORG0000023247,Variety,82
+1095,21,,Catalpa,NBNORG0000053537,Genus,396
+1096,42,Indian-bean-tree,Catalpa bignonioides,NBNORG0000047075,Species,360
+1097,6,Blue Cupidone,Catananche caerulea,NBNORG0000107928,Species,6
+1098,5,,Catapodium,NBNORG0000053539,Genus,13443
+1099,2925,Sea Fern-grass,Catapodium marinum,NBNORG0000053540,Species,3164
+1100,9200,Fern-grass,Catapodium rigidum,NBNORG0000053541,Species,10268
+1101,64,,Catapodium rigidum var. majus,NBNORG0000008699,Variety,64
+1102,284,,Catapodium rigidum var. rigidum,NBNORG0000041382,Variety,296
+1103,6,,Catapodium rigidum x marinum,NBNORG0000107929,Species hybrid,6
+1104,2,,Caucalis bischoffii,NBNORG0000053543,Species,2
+1105,611,Small Bur-parsley,Caucalis platycarpos,NBNORG0000008024,Species,625
+1106,11,Staff-vine,Celastrus orbiculatus,NBNORG0000107930,Species,12
+1107,4,Cockscomb,Celosia argentea,NBNORG0000013245,Species,5
+1108,4,Spiny Sandbur,Cenchrus echinatus,NBNORG0000013289,Species,5
+1109,1,,Cenchrus longispinus,NBNORG0000053558,Species,1
+1110,345,Knapweed,Centaurea,NBNORG0000053561,Genus,164699
+1111,36,Rough Star-thistle,Centaurea aspera,NBNORG0000008612,Species,36
+1112,442,Red Star-thistle,Centaurea calcitrapa,NBNORG0000008613,Species,645
+1113,29,Ragwort Knapweed,Centaurea cineraria,NBNORG0000047084,Species,29
+1114,3388,Cornflower,Centaurea cyanus,NBNORG0000008607,Species,4333
+1115,143,Slender Knapweed,Centaurea debeauxii,NBNORG0000053563,Species,471
+1116,211,,Centaurea debeauxii subsp. nemoralis,NBNORG0000107931,Subspecies,251
+1117,2,Small-flowered Star-thistle,Centaurea diffusa,NBNORG0000047087,Species,2
+1118,161,Lesser Star-thistle,Centaurea diluta,NBNORG0000008696,Species,186
+1119,5,Woolly Star-thistle,Centaurea eriophora,NBNORG0000047088,Species,5
+1120,4,Eastern Star-thistle,Centaurea hyalolepis,NBNORG0000047089,Species,4
+1121,1,Iberian Star-thistle,Centaurea iberica,NBNORG0000053564,Species,1
+1122,96,Brown Knapweed,Centaurea jacea,NBNORG0000008609,Species,108
+1123,14,Giant Knapweed,Centaurea macrocephala,NBNORG0000041391,Species,14
+1124,1,Spotted Knapweed,Centaurea maculosa,NBNORG0000047091,Species,1
+1125,105,Maltese Star-thistle,Centaurea melitensis,NBNORG0000008615,Species,106
+1126,2862,Perennial Cornflower,Centaurea montana,NBNORG0000008606,Species,3058
+1127,119278,Common Knapweed,Centaurea nigra,NBNORG0000008610,Species,133378
+1128,781,Common Knapweed,Centaurea nigra subsp. nigra,NBNORG0000008611,Subspecies,859
+1129,493,,Centaurea nigra var. nemoralis,NBNORG0000070815,Variety,658
+1130,100,,Centaurea nigra var. nigra,NBNORG0000097770,Variety,141
+1131,87,,Centaurea nigra var. radiata,NBNORG0000100118,Variety,99
+1132,89,,Centaurea nigra x jacea = C. x moncktonii,NBNORG0000090092,Species hybrid,97
+1133,1,,Centaurea orientalis,NBNORG0000047094,Species,1
+1134,6,Jersey Knapweed,Centaurea paniculata,NBNORG0000008608,Species,6
+1135,1,Panicled Knapweed,Centaurea rhenana,NBNORG0000047097,Species,1
+1136,20114,Greater Knapweed,Centaurea scabiosa,NBNORG0000008605,Species,21211
+1137,5,Greater Knapweed,Centaurea scabiosa var. succisiifolia,NBNORG0000013353,Variety,7
+1138,631,Yellow Star-thistle,Centaurea solstitialis,NBNORG0000008614,Species,632
+1139,2,,Centaurea spinosa,NBNORG0000047098,Species,2
+1140,1,,Centaurea trichocephala,NBNORG0000047099,Species,1
+1141,1,,Centaurea verutum,NBNORG0000047101,Species,1
+1142,46,Centaury,Centaurium,NBNORG0000053567,Genus,36084
+1143,23320,Common Centaury,Centaurium erythraea,NBNORG0000053568,Species,31480
+1144,5320,,Centaurium erythraea var. erythraea,NBNORG0000041393,Variety,5777
+1145,9,,Centaurium erythraea var. latifolium,NBNORG0000041394,Variety,9
+1146,62,,Centaurium erythraea x littorale = C. x intermedium,NBNORG0000090231,Species hybrid,64
+1147,16,,Centaurium erythraea x pulchellum,NBNORG0000013330,Species hybrid,27
+1148,866,Seaside Centaury,Centaurium littorale,NBNORG0000008227,Species,973
+1149,2824,Lesser Centaury,Centaurium pulchellum,NBNORG0000008226,Species,3266
+1150,75,Perennial Centaury,Centaurium scilloides,NBNORG0000053569,Species,94
+1151,78,Slender Centaury,Centaurium tenuiflorum,NBNORG0000053570,Species,131
+1152,1,,Centranthus,NBNORG0000053572,Genus,15496
+1153,8,Annual Valerian,Centranthus calcitrapae,NBNORG0000023471,Species,12
+1154,13553,Red Valerian,Centranthus ruber,NBNORG0000008489,Species,15483
+1155,5,,Cephalanthera,NBNORG0000053573,Genus,6979
+1156,2258,White Helleborine,Cephalanthera damasonium,NBNORG0000053574,Species,4854
+1157,13,,Cephalanthera damasonium x longifolia = C. x schulzei,NBNORG0000090263,Species hybrid,25
+1158,1085,Narrow-leaved Helleborine,Cephalanthera longifolia,NBNORG0000007233,Species,1908
+1159,141,Red Helleborine,Cephalanthera rubra,NBNORG0000053575,Species,186
+1160,194,Giant Scabious,Cephalaria gigantea,NBNORG0000052159,Species,209
+1161,2,,Cephalaria syriaca,NBNORG0000053578,Species,2
+1162,1,,Cephalaria transylvanica,NBNORG0000053579,Species,1
+1163,367,,Cerastium,NBNORG0000053582,Genus,212425
+1164,860,Alpine Mouse-ear,Cerastium alpinum,NBNORG0000007644,Species,934
+1165,14,,Cerastium alpinum x arcticum auct. non Baenitz,NBNORG0000023370,Species hybrid,14
+1166,57,,Cerastium alpinum x fontanum = C. x symei,NBNORG0000090273,Species hybrid,58
+1167,412,Arctic Mouse-ear,Cerastium arcticum,NBNORG0000007645,Species,465
+1168,1,,Cerastium arcticum var. alpinopilosum,NBNORG0000023445,Variety,1
+1169,5142,Field Mouse-ear,Cerastium arvense,NBNORG0000007642,Species,5717
+1170,34,,Cerastium arvense x fontanum = C. x pseudoalpinum,NBNORG0000090342,Species hybrid,34
+1171,140,,Cerastium arvense x tomentosum,NBNORG0000053584,Species hybrid,149
+1172,71,Grey Mouse-ear,Cerastium brachypetalum,NBNORG0000007648,Species,116
+1173,397,Starwort Mouse-ear,Cerastium cerastoides,NBNORG0000007641,Species,435
+1174,6277,Sea Mouse-ear,Cerastium diffusum,NBNORG0000007649,Species,6701
+1175,108436,Common Mouse-ear,Cerastium fontanum,NBNORG0000007646,Species,135787
+1176,4401,,Cerastium fontanum subsp. holosteoides,NBNORG0000053585,Subspecies,5339
+1177,5,Scottish Mouse-ear,Cerastium fontanum subsp. scoticum,NBNORG0000053586,Subspecies,7
+1178,10955,,Cerastium fontanum subsp. vulgare,NBNORG0000053587,Subspecies,11298
+1179,42192,Sticky Mouse-ear,Cerastium glomeratum,NBNORG0000007647,Species,46438
+1180,35,Shetland Mouse-ear,Cerastium nigrescens,NBNORG0000053588,Species,35
+1181,3,,Cerastium nigrescens x fontanum = C. x richardsonii,NBNORG0000090064,Species hybrid,3
+1182,769,Dwarf Mouse-ear,Cerastium pumilum,NBNORG0000007650,Species,844
+1183,6274,Little Mouse-ear,Cerastium semidecandrum,NBNORG0000007651,Species,6744
+1184,7151,Snow-in-summer,Cerastium tomentosum,NBNORG0000007643,Species,7550
+1185,9094,Climbing Corydalis,Ceratocapnos claviculata,NBNORG0000053590,Species,9895
+1186,1,,Ceratocephala falcata,NBNORG0000047107,Species,1
+1187,11,Patagonian Brome,Ceratochloa brevis,NBNORG0000053593,Species,11
+1188,676,California Brome,Ceratochloa carinata,NBNORG0000053594,Species,1020
+1189,590,Rescue Brome,Ceratochloa cathartica,NBNORG0000007372,Species,658
+1190,12,Western Brome,Ceratochloa marginata,NBNORG0000053595,Species,12
+1191,1,Southern Brome,Ceratochloa staminea,NBNORG0000023459,Species,1
+1192,1,,Ceratophyllaceae,NBNORG0000113020,Family,12401
+1193,47,,Ceratophyllum,NBNORG0000053597,Genus,12398
+1194,9474,,Ceratophyllum demersum,NBNORG0000007475,Species,10608
+1195,1,,Ceratophyllum demersum var. apiculatum,NBNORG0000013331,Variety,2
+1196,1531,Soft Hornwort,Ceratophyllum submersum,NBNORG0000007476,Species,1728
+1197,2,,Ceratostigma,NBNORG0000053598,Genus,6
+1198,2,,Ceratostigma plumbaginoides,NBNORG0000047109,Species,4
+1199,1,,Cercidiphyllum,NBNORG0000105144,Genus,2
+1200,4,,Cercidiphyllum japonicum,NBNORG0000047609,Species,4
+1201,34,Judas-tree,Cercis siliquastrum,NBNORG0000025032,Species,77
+1202,26,Greater Honeywort,Cerinthe major,NBNORG0000047110,Species,33
+1203,2,Lesser Honeywort,Cerinthe minor,NBNORG0000047111,Species,2
+1204,2,,Chaenomeles,NBNORG0000053603,Genus,235
+1205,2,,Chaenomeles cathayensis,NBNORG0000053604,Species,2
+1206,43,Japanese Quince [Chaenomeles japonica],Chaenomeles japonica,NBNORG0000041431,Species,49
+1207,145,Chinese Quince,Chaenomeles speciosa,NBNORG0000023283,Species,171
+1208,2,,Chaenomeles speciosa x japonica = C. x superba,NBNORG0000090093,Species hybrid,5
+1209,1,,Chaenomeles x superba x cathayensis = C. x californica,NBNORG0000089908,Species hybrid,1
+1210,8659,Small Toadflax,Chaenorhinum minus,NBNORG0000008289,Species,9183
+1211,24,Malling Toadflax,Chaenorhinum origanifolium,NBNORG0000008290,Species,29
+1212,2,,Chaerophyllum,NBNORG0000053606,Genus,35796
+1213,1,Broad-leaved Chervil,Chaerophyllum aromaticum,NBNORG0000047113,Species,1
+1214,63,Golden Chervil,Chaerophyllum aureum,NBNORG0000008017,Species,74
+1215,9,Hairy Chervil,Chaerophyllum hirsutum,NBNORG0000013453,Species,9
+1216,33855,Rough Chervil,Chaerophyllum temulum,NBNORG0000008016,Species,35710
+1217,7,,Chamaemelum,NBNORG0000053612,Genus,4023
+1218,7,Mediterranean Chamomile,Chamaemelum mixtum,NBNORG0000047118,Species,7
+1219,2602,Chamomile,Chamaemelum nobile,NBNORG0000008567,Species,4009
+1220,11,,Chamerion,NBNORG0000053613,Genus,107604
+1221,98768,Rosebay Willowherb,Chamerion angustifolium,NBNORG0000007986,Species,107460
+1222,23,,Chamerion dodonaei,NBNORG0000060392,Species,50
+1223,14,Chasmanthe,Chasmanthe bicolor,NBNORG0000053638,Species,14
+1224,2,,Chasmanthium latifolium,NBNORG0000053640,Species,2
+1225,1,,Chelidonium,NBNORG0000053641,Genus,18235
+1226,16659,Greater Celandine,Chelidonium majus,NBNORG0000007485,Species,18234
+1227,198,Goosefoot,Chenopodium,NBNORG0000053642,Genus,98619
+1228,28112,Fat-hen,Chenopodium album,NBNORG0000053643,Species,35216
+1229,15126,,Chenopodium album agg.,NBNORG0000007689,Species aggregate,15364
+1230,1,,Chenopodium album var. album,NBNORG0000100124,Variety,30
+1231,40,Mexican-tea,Chenopodium ambrosioides,NBNORG0000008731,Species,62
+1232,1,,Chenopodium aristatum,NBNORG0000047121,Species,1
+1233,58,Pitseed Goosefoot,Chenopodium berlandieri,NBNORG0000007691,Species,59
+1234,5640,Good-King-Henry,Chenopodium bonus-henricus,NBNORG0000007686,Species,6008
+1235,8,Sticky Goosefoot,Chenopodium botrys,NBNORG0000047124,Species,8
+1236,8,Soyabean Goosefoot,Chenopodium bushianum,NBNORG0000023567,Species,10
+1237,129,Strawberry-blite,Chenopodium capitatum,NBNORG0000053646,Species,142
+1238,14,Keeled Goosefoot,Chenopodium carinatum,NBNORG0000053647,Species,14
+1239,3,,Chenopodium carinatum x cristatum = C. x bontei,NBNORG0000090239,Species hybrid,3
+1240,479,Saltmarsh Goosefoot,Chenopodium chenopodioides,NBNORG0000007696,Species,957
+1241,16,Crested Goosefoot,Chenopodium cristatum,NBNORG0000053648,Species,16
+1242,43,Slimleaf Goosefoot,Chenopodium desiccatum,NBNORG0000053649,Species,45
+1243,2,Fish-guts,Chenopodium detestans,NBNORG0000047125,Species,2
+1244,5859,Fig-leaved Goosefoot,Chenopodium ficifolium,NBNORG0000053650,Species,7466
+1245,3,Strawberry Goosefoot,Chenopodium foliosum,NBNORG0000047126,Species,3
+1246,58,Tree Spinach,Chenopodium giganteum,NBNORG0000053651,Species,66
+1247,435,Oak-leaved Goosefoot,Chenopodium glaucum,NBNORG0000007697,Species,654
+1248,86,Foetid Goosefoot,Chenopodium hircinum,NBNORG0000053653,Species,87
+1249,1181,Maple-leaved Goosefoot,Chenopodium hybridum,NBNORG0000007694,Species,1313
+1250,12,Scented Goosefoot,Chenopodium multifidum,NBNORG0000013411,Species,12
+1251,1293,Nettle-leaved Goosefoot,Chenopodium murale,NBNORG0000007692,Species,1544
+1252,12,Nitre Goosefoot,Chenopodium nitrariaceum,NBNORG0000053655,Species,12
+1253,268,Grey Goosefoot,Chenopodium opulifolium,NBNORG0000053656,Species,270
+1254,9522,Many-seeded Goosefoot,Chenopodium polyspermum,NBNORG0000007687,Species,12658
+1255,116,Probst's Goosefoot,Chenopodium probstii,NBNORG0000023593,Species,120
+1256,1,,Chenopodium procerum,NBNORG0000047131,Species,1
+1257,25,Clammy Goosefoot,Chenopodium pumilio,NBNORG0000052171,Species,25
+1258,95,Quinoa,Chenopodium quinoa,NBNORG0000013395,Species,115
+1259,12157,Red Goosefoot,Chenopodium rubrum,NBNORG0000007695,Species,13945
+1260,2,,Chenopodium schraderianum,NBNORG0000053657,Species,2
+1261,47,Striped Goosefoot,Chenopodium strictum,NBNORG0000023357,Species,50
+1262,116,Swedish Goosefoot,Chenopodium suecicum,NBNORG0000007690,Species,117
+1263,622,Upright Goosefoot,Chenopodium urbicum,NBNORG0000007693,Species,644
+1264,628,Stinking Goosefoot,Chenopodium vulvaria,NBNORG0000007688,Species,731
+1265,1,,Chenopodium x preissmannii,NBNORG0000013445,Species hybrid,1
+1266,3,,Chenopodium x variabile,NBNORG0000022615,Species hybrid,3
+1267,1,,Chenopodium x zahnii,NBNORG0000013224,Species hybrid,1
+1268,19,Lamb's-tail,Chiastophyllum oppositifolium,NBNORG0000047138,Species,21
+1269,2,,Chimonobambusa,NBNORG0000053660,Genus,5
+1270,3,Square-stemmed Bamboo,Chimonobambusa quadrangularis,NBNORG0000053662,Species,3
+1271,4,,Chionodoxa,NBNORG0000053663,Genus,6
+1272,4,,Chloris,NBNORG0000053664,Genus,56
+1273,9,Australian Rhodes-grass,Chloris divaricata,NBNORG0000053665,Species,9
+1274,1,,Chloris pycnothrix,NBNORG0000047141,Species,1
+1275,23,Windmill-grass,Chloris truncata,NBNORG0000053666,Species,23
+1276,19,Feathery Rhodes-grass,Chloris virgata,NBNORG0000013461,Species,19
+1277,1,,Choisya,NBNORG0000053668,Genus,315
+1278,47,Mexican Orange,Choisya ternata,NBNORG0000023265,Species,211
+1279,2,Skeletonweed,Chondrilla juncea,NBNORG0000047145,Species,2
+1280,15,,Chorispora tenella,NBNORG0000053673,Species,15
+1281,1,,Chrozophora,NBNORG0000053674,Genus,3
+1282,2,Turn-sole,Chrozophora tinctoria,NBNORG0000053675,Species,2
+1283,19,,Chrysanthemum,NBNORG0000053676,Genus,23
+1284,1,,Chrysocoma,NBNORG0000053677,Genus,46
+1285,32,Shrub Goldilocks,Chrysocoma coma-aurea,NBNORG0000023463,Species,32
+1286,13,Fine-leaved Goldilocks,Chrysocoma tenuifolia,NBNORG0000053678,Species,13
+1287,56,,Chrysosplenium,NBNORG0000053680,Genus,46602
+1288,5257,Alternate-leaved Golden-saxifrage,Chrysosplenium alternifolium,NBNORG0000007960,Species,5501
+1289,38879,Opposite-leaved Golden-saxifrage,Chrysosplenium oppositifolium,NBNORG0000007959,Species,41044
+1290,701,Yellow Centaury,Cicendia filiformis,NBNORG0000008224,Species,1049
+1291,82,Chick Pea,Cicer arietinum,NBNORG0000013190,Species,86
+1292,1,,Cicerbita,NBNORG0000053683,Genus,2861
+1293,39,Alpine Blue-sow-thistle,Cicerbita alpina,NBNORG0000008640,Species,41
+1294,60,Pontic Blue-sow-thistle,Cicerbita bourgaei,NBNORG0000008641,Species,60
+1295,2409,Common Blue-sow-thistle,Cicerbita macrophylla,NBNORG0000008642,Species,2678
+1296,154,,Cicerbita macrophylla subsp. uralensis,NBNORG0000053684,Subspecies,177
+1297,76,Hairless Blue-sow-thistle,Cicerbita plumieri,NBNORG0000008935,Species,78
+1298,8,Endive,Cichorium endivia,NBNORG0000047148,Species,11
+1299,5578,Chicory,Cichorium intybus,NBNORG0000008617,Species,6365
+1300,1,,Cicuta,NBNORG0000053686,Genus,3102
+1301,3017,Cowbane,Cicuta virosa,NBNORG0000008044,Species,3101
+1302,19,,Circaea,NBNORG0000053689,Genus,61302
+1303,222,Alpine Enchanter's-nightshade,Circaea alpina,NBNORG0000007992,Species,255
+1304,52771,Enchanter's-nightshade,Circaea lutetiana,NBNORG0000007991,Species,57965
+1305,3056,Upland Enchanter's-nightshade,Circaea lutetiana x alpina = C. x intermedia,NBNORG0000028240,Species hybrid,3060
+1306,709,,Cirsium,NBNORG0000053690,Genus,447839
+1307,16692,Dwarf Thistle,Cirsium acaule,NBNORG0000008599,Species,17950
+1308,37,,Cirsium acaule x arvense = C. x boulayi,NBNORG0000090261,Species hybrid,40
+1309,19,,Cirsium acaule x palustre = C. x kirschlegeri,NBNORG0000090361,Species hybrid,20
+1310,152874,Creeping Thistle,Cirsium arvense,NBNORG0000008597,Species,172880
+1311,119,,Cirsium arvense var. arvense,NBNORG0000041560,Variety,162
+1312,27,Creeping Thistle,Cirsium arvense var. incanum,NBNORG0000023553,Variety,119
+1313,52,,Cirsium arvense var. setosum,NBNORG0000041561,Variety,52
+1314,1,,Cirsium creticum,NBNORG0000053691,Species,1
+1315,8917,Meadow Thistle,Cirsium dissectum,NBNORG0000008601,Species,9261
+1316,18,,Cirsium dissectum x acaule = C. x woodwardii,NBNORG0000089911,Species hybrid,18
+1317,217,,Cirsium dissectum x palustre = C. x forsteri,NBNORG0000090225,Species hybrid,240
+1318,7123,Woolly Thistle,Cirsium eriophorum,NBNORG0000008594,Species,7269
+1319,27,,Cirsium eriophorum x vulgare = C. x grandiflorum,NBNORG0000028241,Species hybrid,27
+1320,5,Yellow Thistle,Cirsium erisithales,NBNORG0000023573,Species,5
+1321,3981,Melancholy Thistle,Cirsium heterophyllum,NBNORG0000008600,Species,4134
+1322,67,,Cirsium heterophyllum x palustre = C. x wankelii,NBNORG0000090351,Species hybrid,67
+1323,69,Cabbage Thistle,Cirsium oleraceum,NBNORG0000008598,Species,71
+1324,91512,Marsh Thistle,Cirsium palustre,NBNORG0000008596,Species,97183
+1325,162,,Cirsium palustre x arvense = C. x celakovskianum,NBNORG0000089958,Species hybrid,165
+1326,2,Brook Thistle,Cirsium rivulare,NBNORG0000047156,Species,2
+1327,933,Tuberous Thistle,Cirsium tuberosum,NBNORG0000008602,Species,934
+1328,542,,Cirsium tuberosum x acaule = C. x medium,NBNORG0000089909,Species hybrid,542
+1329,13,,Cirsium tuberosum x palustre = C. x semidecurrens,NBNORG0000090144,Species hybrid,13
+1330,122678,Spear Thistle,Cirsium vulgare,NBNORG0000008595,Species,136198
+1331,18,,Cirsium vulgare x acaule = C. x sabaudum,NBNORG0000089910,Species hybrid,19
+1332,15,,Cirsium vulgare x palustre = C. x subspinuligerum,NBNORG0000090145,Species hybrid,15
+1333,4,,Cistaceae,NBNORG0000027363,Family,18689
+1334,2,,Cistus,NBNORG0000053692,Genus,44
+1335,1,,Cistus albidus x crispus = C. x pulverulentus,NBNORG0000090028,Species hybrid,1
+1336,2,Hoary Rock-rose [Cistus incanus],Cistus incanus,NBNORG0000007612,Species,2
+1337,1,Gum Rock-rose,Cistus ladanifer,NBNORG0000047158,Species,1
+1338,13,Laurel-leaved Cistus,Cistus laurifolius,NBNORG0000013412,Species,14
+1339,5,Sage-leaved Rock-rose,Cistus salviifolius,NBNORG0000047159,Species,5
+1340,99,Water Melon,Citrullus lanatus,NBNORG0000023430,Species,103
+1341,1,Japanese Bitter-orange,Citrus trifoliata,NBNORG0000105181,Species,1
+1342,1,,Cladanthus arabicus,NBNORG0000047163,Species,1
+1343,32,,Cladium,NBNORG0000053698,Genus,3295
+1344,3167,Great Fen-sedge,Cladium mariscus,NBNORG0000007279,Species,3263
+1345,2,,Clarkia,NBNORG0000053699,Genus,120
+1346,82,Godetia,Clarkia amoena,NBNORG0000053700,Species,83
+1347,1,Red-ribbons,Clarkia concinna,NBNORG0000053702,Species,1
+1348,2,,Clarkia quadrivulnera,NBNORG0000053704,Species,2
+1349,30,Clarkia,Clarkia unguiculata,NBNORG0000053705,Species,32
+1350,4,,Claytonia,NBNORG0000053706,Genus,14417
+1351,5219,Springbeauty,Claytonia perfoliata,NBNORG0000007678,Species,5613
+1352,8587,Pink Purslane,Claytonia sibirica,NBNORG0000007679,Species,8789
+1353,10,Virginia Springbeauty,Claytonia virginica,NBNORG0000007680,Species,11
+1354,87,,Clematis,NBNORG0000053707,Genus,38667
+1355,5,,Clematis armandii,NBNORG0000053708,Species,11
+1356,1,Early Virgin's-bower,Clematis cirrhosa,NBNORG0000023356,Species,3
+1357,51,Virgin's-bower,Clematis flammula,NBNORG0000007435,Species,52
+1358,80,Himalayan Clematis,Clematis montana,NBNORG0000007436,Species,96
+1359,43,Orange-peel Clematis,Clematis tangutica,NBNORG0000023266,Species,54
+1360,33478,Traveller's-joy,Clematis vitalba,NBNORG0000007434,Species,38220
+1361,60,Purple Clematis,Clematis viticella,NBNORG0000007437,Species,75
+1362,1,,Clematis viticella x lanuginosa (C. x jackmanii),NBNORG0000091194,Species hybrid,1
+1363,2,Spiderflower,Cleome sesquiorygalis,NBNORG0000047167,Species,3
+1364,3,Livingstone-daisy,Cleretum bellidiforme,NBNORG0000053711,Species,3
+1365,10,,Clerodendrum,NBNORG0000053712,Genus,14
+1366,3,,Clerodendrum trichotomum,NBNORG0000047168,Species,3
+1367,5,Lily-of-the-valley-tree,Clethra arborea,NBNORG0000053714,Species,6
+1368,14,Calamint Cultivar,Clinopodium,NBNORG0000053715,Genus,32644
+1369,3518,Basil Thyme,Clinopodium acinos,NBNORG0000008387,Species,4502
+1370,4594,Common Calamint,Clinopodium ascendens,NBNORG0000053716,Species,4785
+1371,2003,Lesser Calamint,Clinopodium calamintha,NBNORG0000008386,Species,2689
+1372,2,Greater Calamint,Clinopodium grandiflorum,NBNORG0000023564,Species,2
+1373,33,Wood Calamint,Clinopodium menthifolium,NBNORG0000008385,Species,64
+1374,1,Round-leaved Calamint,Clinopodium rotundifolium,NBNORG0000047170,Species,1
+1375,19117,Wild Basil [Clinopodium vulgare],Clinopodium vulgare,NBNORG0000008388,Species,20586
+1376,3,,Clusiaceae,NBNORG0000027371,Family,3
+1377,3,Blessed Thistle,Cnicus benedictus,NBNORG0000013193,Species,3
+1378,114,,Cochlearia,NBNORG0000053719,Genus,29224
+1379,21,Violet Cress,Cochlearia acaulis,NBNORG0000105182,Species,21
+1380,2609,English Scurvygrass,Cochlearia anglica,NBNORG0000007533,Species,3025
+1381,111,,Cochlearia anglica x officinalis = C. x hollandica,NBNORG0000090317,Species hybrid,111
+1382,12980,Danish Scurvygrass,Cochlearia danica,NBNORG0000007532,Species,14099
+1383,4,Tall Scurvygrass,Cochlearia megalosperma,NBNORG0000107934,Species,4
+1384,308,Mountain Scurvygrass,Cochlearia micacea,NBNORG0000053720,Species,326
+1385,7276,Common Scurvygrass,Cochlearia officinalis,NBNORG0000053721,Species,8070
+1386,2339,,Cochlearia officinalis sens.lat.,NBNORG0000025168,Species aggregate,2362
+1387,75,,Cochlearia officinalis subsp. officinalis,NBNORG0000053722,Subspecies,75
+1388,582,Scottish Scurvygrass,Cochlearia officinalis subsp. scotica,NBNORG0000053723,Subspecies,582
+1389,99,,Cochlearia officinalis x danica,NBNORG0000107935,Species hybrid,99
+1390,754,Pyrenean Scurvygrass,Cochlearia pyrenaica,NBNORG0000007531,Species,990
+1391,132,,Cochlearia pyrenaica subsp. alpina,NBNORG0000107936,Subspecies,132
+1392,37,,Cochlearia pyrenaica subsp. pyrenaica,NBNORG0000053724,Subspecies,37
+1393,1,,Cochlearia pyrenaica x officinalis,NBNORG0000052172,Species hybrid,1
+1394,1,,Coeloglossum,NBNORG0000053725,Genus,6435
+1395,5594,Frog Orchid,Coeloglossum viride,NBNORG0000053995,Species,6434
+1396,66,,Coeloglossum viride x Dactylorhiza fuchsii = X Dactyloglossum mixtum,NBNORG0000090206,Species hybrid,104
+1397,5,,Coeloglossum viride x Dactylorhiza maculata = X Dactyloglossum conigerum,NBNORG0000090211,Species hybrid,5
+1398,9,,Coeloglossum viride x Dactylorhiza purpurella = X Dactyloglossum viridella,NBNORG0000090217,Species hybrid,9
+1399,2,,Coincya,NBNORG0000053726,Genus,1045
+1400,1,Wallflower Cabbage,Coincya hispida,NBNORG0000047172,Species,1
+1401,75,,Coincya monensis,NBNORG0000023475,Species,978
+1402,304,Wallflower Cabbage,Coincya monensis subsp. cheiranthos,NBNORG0000107937,Subspecies,329
+1403,531,,Coincya monensis subsp. monensis,NBNORG0000053727,Subspecies,574
+1404,64,Lundy Cabbage,Coincya wrightii,NBNORG0000053728,Species,64
+1405,6,,Colchicum,NBNORG0000053730,Genus,4248
+1406,3,,Colchicum agrippinum,NBNORG0000047175,Species,3
+1407,4069,Meadow Saffron,Colchicum autumnale,NBNORG0000007170,Species,4239
+1408,2,,Coleus,NBNORG0000053734,Genus,3
+1409,1,Chinese-houses,Collinsia heterophylla,NBNORG0000053736,Species,1
+1410,5,,Collomia grandiflora,NBNORG0000047178,Species,5
+1411,1,,Colutea,NBNORG0000053740,Genus,973
+1412,540,Bladder-senna,Colutea arborescens,NBNORG0000007814,Species,923
+1413,37,Orange Bladder-senna,Colutea arborescens x orientalis = C. x media,NBNORG0000090377,Species hybrid,48
+1414,3,,Conium,NBNORG0000053743,Genus,37469
+1415,33018,Hemlock,Conium maculatum,NBNORG0000008030,Species,37464
+1416,37,,Conopodium,NBNORG0000053744,Genus,59595
+1417,54951,Pignut,Conopodium majus,NBNORG0000008050,Species,59557
+1418,14,,Conringia austriaca,NBNORG0000023487,Species,14
+1419,444,Hare's-ear Mustard,Conringia orientalis,NBNORG0000007516,Species,452
+1420,6,Larkspur,Consolida,NBNORG0000053746,Genus,1728
+1421,1242,Larkspur,Consolida ajacis,NBNORG0000007429,Species,1428
+1422,120,Eastern Larkspur,Consolida orientalis,NBNORG0000053747,Species,223
+1423,65,Forking Larkspur,Consolida regalis,NBNORG0000013292,Species,67
+1424,3860,Lily-of-the-valley,Convallaria majalis,NBNORG0000007154,Species,4339
+1425,36,,Convolvulaceae,NBNORG0000027385,Family,167602
+1426,113,,Convolvulus,NBNORG0000053750,Genus,62538
+1427,52991,Field Bindweed,Convolvulus arvensis,NBNORG0000008260,Species,62397
+1428,16,,Convolvulus arvensis var. arvensis,NBNORG0000041621,Variety,46
+1429,5,Field Bindweed,Convolvulus arvensis var. stonestreetii,NBNORG0000023328,Variety,13
+1430,1,Australian Bindweed,Convolvulus erubescens,NBNORG0000047186,Species,1
+1431,1,Ground Blue-convolvulus,Convolvulus sabatius,NBNORG0000047188,Species,1
+1432,2,Small Blue-convolvulus,Convolvulus siculus,NBNORG0000047189,Species,2
+1433,3,Tricolour Convolvulus,Convolvulus tricolor,NBNORG0000047191,Species,3
+1434,7,,Conyza,NBNORG0000053752,Genus,21606
+1435,46,Argentine Fleabane,Conyza bonariensis,NBNORG0000053754,Species,104
+1436,12905,Canadian Fleabane,Conyza canadensis,NBNORG0000053755,Species,17166
+1437,1,,Conyza canadensis x bonariensis,NBNORG0000107938,Species hybrid,1
+1438,86,Bilbao Fleabane,Conyza floribunda,NBNORG0000053753,Species,200
+1439,1073,Guernsey Fleabane,Conyza sumatrensis,NBNORG0000053756,Species,4066
+1440,43,Tree Bedstraw,Coprosma repens,NBNORG0000053758,Species,43
+1441,543,Coralroot Orchid,Corallorhiza trifida,NBNORG0000053760,Species,599
+1442,3,,Cordyline,NBNORG0000053762,Genus,279
+1443,194,Cabbage-palm,Cordyline australis,NBNORG0000053763,Species,274
+1444,17,Large-flowered Tickseed,Coreopsis grandiflora,NBNORG0000013155,Species,19
+1445,7,Garden Tickseed,Coreopsis tinctoria,NBNORG0000013284,Species,9
+1446,2,Whorled Tickseed,Coreopsis verticillata,NBNORG0000013160,Species,2
+1447,581,Coriander,Coriandrum sativum,NBNORG0000008026,Species,607
+1448,14,Bugseed,Corispermum leptopterum,NBNORG0000107939,Species,18
+1449,1,,Cornaceae,NBNORG0000027392,Family,58754
+1450,303,,Cornus,NBNORG0000053769,Genus,58711
+1451,662,White Dogwood,Cornus alba,NBNORG0000023346,Species,732
+1452,1,Creeping Dogwood,Cornus canadensis,NBNORG0000047198,Species,1
+1453,4,Bentham's Dogwood,Cornus capitata,NBNORG0000053770,Species,4
+1454,1,Flowering Dogwood,Cornus florida,NBNORG0000025034,Species,4
+1455,163,Cornelian-cherry,Cornus mas,NBNORG0000008006,Species,195
+1456,47795,Dogwood,Cornus sanguinea,NBNORG0000008004,Species,54257
+1457,51,,Cornus sanguinea subsp. australis,NBNORG0000115883,Subspecies,55
+1458,1790,Red-osier Dogwood,Cornus sericea,NBNORG0000008005,Species,1928
+1459,1048,Dwarf Cornel,Cornus suecica,NBNORG0000008007,Species,1055
+1460,2,,Coronilla,NBNORG0000053771,Genus,101
+1461,1,Scorpion-vetch,Coronilla coronata,NBNORG0000047200,Species,1
+1462,62,Annual Scorpion-vetch,Coronilla scorpioides,NBNORG0000053772,Species,62
+1463,24,Shrubby Scorpion-vetch,Coronilla valentina,NBNORG0000007823,Species,36
+1464,9,,Coronopus,NBNORG0000053774,Genus,12
+1465,3,Tasmanian-fuchsia,Correa backhouseana,NBNORG0000107940,Species,3
+1466,100,Strapwort,Corrigiola litoralis,NBNORG0000008653,Species,102
+1467,2,,Corrigiola telephiifolia,NBNORG0000053777,Species,2
+1468,10,,Cortaderia,NBNORG0000053778,Genus,1098
+1469,98,Early Pampas-grass,Cortaderia richardii,NBNORG0000107941,Species,99
+1470,748,Pampas-grass,Cortaderia selloana,NBNORG0000053779,Species,982
+1471,16,Corydalis,Corydalis,NBNORG0000053780,Genus,432
+1472,49,Hollowroot,Corydalis cava,NBNORG0000053781,Species,50
+1473,43,Fern-leaved Corydalis,Corydalis cheilanthifolia,NBNORG0000053782,Species,48
+1474,1,Harlequin Corydalis,Corydalis sempervirens,NBNORG0000047202,Species,1
+1475,295,Bird-in-a-bush,Corydalis solida,NBNORG0000007487,Species,316
+1476,209,Hazel,Corylus,NBNORG0000053784,Genus,136431
+1477,122912,Hazel,Corylus avellana,NBNORG0000008144,Species,135591
+1478,31,,Corylus avellana x maxima,NBNORG0000013282,Species hybrid,93
+1479,24,Turkish Hazel,Corylus colurna,NBNORG0000025035,Species,353
+1480,60,Filbert,Corylus maxima,NBNORG0000053785,Species,75
+1481,487,Grey Hair-grass,Corynephorus canescens,NBNORG0000053787,Species,487
+1482,2,,Cosmos,NBNORG0000053788,Genus,137
+1483,3,,Cosmos atrosanguineus,NBNORG0000047610,Species,3
+1484,115,Mexican Aster,Cosmos bipinnatus,NBNORG0000013253,Species,134
+1485,97,Smoke-tree,Cotinus coggygria,NBNORG0000023441,Species,108
+1486,2574,,Cotoneaster,NBNORG0000053790,Genus,23950
+1487,8,Creeping Cotoneaster,Cotoneaster adpressus,NBNORG0000023572,Species,9
+1488,12,Purpleberry Cotoneaster,Cotoneaster affinis,NBNORG0000053792,Species,17
+1489,8,Beautiful Cotoneaster,Cotoneaster amoenus,NBNORG0000053793,Species,16
+1490,3,Apiculate Cotoneaster,Cotoneaster apiculatus,NBNORG0000041659,Species,3
+1491,6,Ascending Cotoneaster,Cotoneaster ascendens,NBNORG0000053794,Species,6
+1492,5,Starry Cotoneaster,Cotoneaster astrophoros,NBNORG0000041660,Species,5
+1493,30,Purple-flowered Cotoneaster,Cotoneaster atropurpureus,NBNORG0000053795,Species,36
+1494,17,Open-fruited Cotoneaster,Cotoneaster bacillaris,NBNORG0000053796,Species,18
+1495,5,Bois's Cotoneaster,Cotoneaster boisianus,NBNORG0000041661,Species,5
+1496,834,Hollyberry Cotoneaster,Cotoneaster bullatus,NBNORG0000008697,Species,896
+1497,48,,Cotoneaster cambricus,NBNORG0000053799,Species,58
+1498,5,Kashmir Cotoneaster,Cotoneaster cashmiriensis,NBNORG0000053800,Species,7
+1499,10,Yunnan Cotoneaster,Cotoneaster cochleatus,NBNORG0000053802,Species,10
+1500,17,Congested Cotoneaster,Cotoneaster congestus,NBNORG0000013415,Species,17
+1501,65,Tibetan Cotoneaster,Cotoneaster conspicuus,NBNORG0000053803,Species,75
+1502,2,Cooper's Cotoneaster,Cotoneaster cooperi,NBNORG0000053804,Species,2
+1503,99,Bearberry Cotoneaster,Cotoneaster dammeri,NBNORG0000053805,Species,105
+1504,144,,Cotoneaster dammeri x conspicuus = C. x suecicus,NBNORG0000090015,Species hybrid,144
+1505,497,Diels' Cotoneaster,Cotoneaster dielsianus,NBNORG0000053806,Species,536
+1506,151,Spreading Cotoneaster,Cotoneaster divaricatus,NBNORG0000053807,Species,177
+1507,12,Lindley's Cotoneaster,Cotoneaster ellipticus nom. inval.,NBNORG0000057159,Species,15
+1508,2,Fang's Cotoneaster,Cotoneaster fangianus,NBNORG0000041662,Species,2
+1509,414,Franchet's Cotoneaster,Cotoneaster franchetii,NBNORG0000008698,Species,481
+1510,363,Tree Cotoneaster,Cotoneaster frigidus,NBNORG0000053809,Species,399
+1511,538,,Cotoneaster frigidus x salicifolius = C. x watereri,NBNORG0000028242,Species hybrid,598
+1512,1,Glabrous Cotoneaster,Cotoneaster glabratus,NBNORG0000091583,Species,1
+1513,1,Glaucous Cotoneaster,Cotoneaster glaucophyllus,NBNORG0000091584,Species,1
+1514,4,Henry's Cotoneaster,Cotoneaster henryanus,NBNORG0000041663,Species,4
+1515,4,Circular-leaved Cotoneaster,Cotoneaster hissaricus,NBNORG0000013463,Species,4
+1516,155,Hjelmqvist's Cotoneaster,Cotoneaster hjelmqvistii,NBNORG0000053810,Species,171
+1517,4842,Wall Cotoneaster,Cotoneaster horizontalis,NBNORG0000053811,Species,5760
+1518,709,,Cotoneaster horizontalis agg.,NBNORG0000025189,Species aggregate,719
+1519,8,Hsing-Shan Cotoneaster,Cotoneaster hsingshangensis,NBNORG0000053812,Species,8
+1520,2,Hummel's Cotoneaster,Cotoneaster hummelii,NBNORG0000053813,Species,2

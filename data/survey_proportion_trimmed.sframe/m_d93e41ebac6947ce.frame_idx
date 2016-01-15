@@ -1,0 +1,13 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=3
+nrows=2337499
+[column_names]
+0000=site
+0001=taxa
+0002=%present
+[column_files]
+0000=m_d93e41ebac6947ce.sidx:0
+0001=m_d93e41ebac6947ce.sidx:1
+0002=m_d93e41ebac6947ce.sidx:2
