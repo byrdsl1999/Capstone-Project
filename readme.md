@@ -3,7 +3,6 @@
 
 ## OVERVIEW
 
-
 This web is targeted towards land managers and conservationists. It has two related functions. For land managers, it predicts the species which are potential invasive species to the particular area of land they are concerned about.  For conservationists who are interested in remediation of threatened or protected species, the app will recommend regions which are most suitable for the species they are concerned with.
 
 ## Principle 
